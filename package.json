@@ -8,6 +8,7 @@
   },
   "scripts": {
     "start": "node start.js",
+    "dev": "nodemon start.js",
     "lint": "standard",
     "test": "npm run lint && gulp generate-assets && jest"
   },
@@ -37,6 +38,7 @@
     "inquirer": "^7.1.0",
     "keypather": "^3.0.0",
     "marked": "^1.2.0",
+    "nodemon": "^2.0.7",
     "notifications-node-client": "^4.7.2",
     "nunjucks": "^3.2.1",
     "portscanner": "^2.1.1",
@@ -56,5 +58,10 @@
     "node-sass": "^4.14.1",
     "standard": "^14.3.3",
     "supertest": "^4.0.2"
+  },
+  "nodemonConfig": {
+    "watch": [
+      "app/"
+    ]
   }
 }
