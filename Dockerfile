@@ -32,7 +32,6 @@ WORKDIR /usr/src/app
 COPY --chown=appuser:appuser ./docs ./docs/
 COPY --chown=appuser:appuser ./gulp ./gulp/
 COPY --chown=appuser:appuser ./lib ./lib/
-COPY --chown=appuser:appuser ./public ./public/
 COPY gulpfile.js listen-on-port.js Procfile server.js start.js usage-data-config.json ./
 
 # ----------------------------
@@ -44,5 +43,4 @@ WORKDIR /usr/src/app
 COPY --chown=appuser:appuser ./app ./app/
 USER 1001
 EXPOSE 3000
-RUN ls -al
 CMD [ "npm", "start" ]
