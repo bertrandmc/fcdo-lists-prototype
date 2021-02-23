@@ -40,9 +40,9 @@ jobs:
         uses: satackey/action-docker-layer-caching@v0.0.11
         continue-on-error: true
         with:
-          key: ${{ secrets.APP_NAME }}-${{ env.MONTH }}-{hash}
+          key: fcdo-lists-prototype-${{ env.MONTH }}-{hash}
           restore-keys: |
-            ${{ secrets.APP_NAME }}-${{ env.MONTH }}
+            fcdo-lists-prototype-${{ env.MONTH }}
 
       - name: Docker compose build
         run: |
@@ -53,14 +53,14 @@ jobs:
           docker image ls
 
       - name: Tag Image
-        run: docker tag ${{ secrets.APP_NAME }} registry.heroku.com/${{ secrets.APP_NAME }}/web
+        run: docker tag fcdo-lists-prototype registry.heroku.com/fcdo-lists-prototype/web
 
       - name: Push to Heroku Registry
         env:
           HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
-        run: docker push registry.heroku.com/${{ secrets.APP_NAME }}/web
+        run: docker push registry.heroku.com/fcdo-lists-prototype/web
 
       - name: Release
         env:
           HEROKU_API_KEY: ${{ secrets.HEROKU_DEV_API_KEY }}
-        run: heroku container:release -a ${{ secrets.APP_NAME }} web
+        run: heroku container:release -a fcdo-lists-prototype web
