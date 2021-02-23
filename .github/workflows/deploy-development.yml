@@ -1,0 +1,66 @@
+name: Deploy Development
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Test
+        run: npm run test
+
+  build-and-deploy-development:
+    runs-on: ubuntu-latest
+    needs: [lint-and-test]
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Docker compose pull
+        run: docker-compose pull
+
+      - name: Docker layer caching MONTH key
+        # MONTH key is used to rotate docker-layer-caching monthly to avoid the layers dangle issues
+        # see https://github.com/satackey/action-docker-layer-caching/issues/55
+        # if you change this, please remember to apply the same changes to branch--lint-unit-and-smoke-test.yml
+        # so master branch cache can be shared with branches
+        run: echo "MONTH=$(date +%m)" >> $GITHUB_ENV
+
+      - name: Docker layer caching
+        uses: satackey/action-docker-layer-caching@v0.0.11
+        continue-on-error: true
+        with:
+          key: ${{ secrets.APP_NAME }}-${{ env.MONTH }}-{hash}
+          restore-keys: |
+            ${{ secrets.APP_NAME }}-${{ env.MONTH }}
+
+      - name: Docker compose build
+        run: |
+          docker-compose build
+
+      - name: Check images
+        run: |
+          docker image ls
+
+      - name: Tag Image
+        run: docker tag ${{ secrets.APP_NAME }} registry.heroku.com/${{ secrets.APP_NAME }}/web
+
+      - name: Push to Heroku Registry
+        env:
+          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+        run: docker push registry.heroku.com/${{ secrets.APP_NAME }}/web
+
+      - name: Release
+        env:
+          HEROKU_API_KEY: ${{ secrets.HEROKU_DEV_API_KEY }}
+        run: heroku container:release -a ${{ secrets.APP_NAME }} web
