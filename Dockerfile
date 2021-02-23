@@ -33,7 +33,6 @@ COPY --chown=appuser:appuser ./docs ./docs/
 COPY --chown=appuser:appuser ./gulp ./gulp/
 COPY --chown=appuser:appuser ./lib ./lib/
 COPY --chown=appuser:appuser ./public ./public/
-COPY --chown=appuser:appuser ./public ./public/
 COPY gulpfile.js listen-on-port.js Procfile server.js start.js usage-data-config.json ./
 
 # ----------------------------
