@@ -53,7 +53,7 @@ jobs:
           docker image ls
 
       - name: Tag Image
-        run: docker tag fcdo-lists-prototype registry.heroku.com/fcdo-lists-prototype/web
+        run: docker tag fcdo-lists-prototype_web registry.heroku.com/fcdo-lists-prototype/web
 
       - name: Push to Heroku Registry
         env:
