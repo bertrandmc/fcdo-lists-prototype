@@ -5,18 +5,20 @@
 {% endblock %}
 
 {% block beforeContent %}
-  <a class="govuk-back-link" href="{{ previousRoute }}">Back</a>
+  <a id="back-button" class="govuk-back-link" href="#">Back</a>
 {% endblock %}
 
 {% block content %}
 
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-two-thirds">
-
-      <h1 class="govuk-heading-xl" for="sort">Country?</h1>
-
       <form class="form" action="{{ nextRoute }}" method="post">
         <div class="govuk-form-group">
+          <h1 class="govuk-label-wrapper">
+            <label class="govuk-label govuk-label--l" for="country">
+              Country?
+            </label>
+          </h1>
           <select class="govuk-select" id="country" name="country">
             <option value=""></option>
             {% for country in countriesList %}

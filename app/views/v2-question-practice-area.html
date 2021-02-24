@@ -5,7 +5,7 @@
 {% endblock %}
 
 {% block beforeContent %}
-  <a class="govuk-back-link" href="{{ previousRoute }}">Back</a>
+  <a id="back-button" class="govuk-back-link" href="#">Back</a>
 {% endblock %}
 
 {% block content %}
@@ -15,11 +15,11 @@
       <form class="form" action="{{ nextRoute }}" method="post">
         <div class="govuk-form-group">
           <fieldset class="govuk-fieldset" aria-describedby="practice-area-hint">
-            <legend class="govuk-fieldset__legend govuk-fieldset__legend--l">
-              <h1 class="govuk-fieldset__heading">
+            <h1 class="govuk-label-wrapper">
+              <label class="govuk-label govuk-label--l" for="practiceArea">
                 Which legal practice areas do you need?
-              </h1>
-            </legend>
+              </label>
+            </h1>
             <div id="practice-area-hint" class="govuk-hint">
               Select all that apply.
             </div>
