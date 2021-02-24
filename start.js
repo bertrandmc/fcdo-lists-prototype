@@ -77,3 +77,8 @@ function runGulp () {
     console.log('gulp exited with code ' + code.toString())
   })
 }
+
+process.on("SIGINT", () => {
+  console.log("Bye bye!");
+  process.exit();
+});

@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "BNH Hospital",
+    "Email": "info@bnh.co.th",
+    "Telephone": "+66 (0)2022 0700",
+    "Address": "9/1, Convent Road, Silom, Bangkok 10500, Thailand",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Private",
+    "Accreditation": "HA JCI"
+  },
+  {
+    "Name": "Bangkok Hospital Trat",
+    "Email": "bthinter@bth.co.th",
+    "Telephone": "+66 (0)3955 2777",
+    "Address": "376 Village no.2 Wangkrajae sub-district, Mueang district, Trat, Thailand 23000",
+    "English speaking staff": "Some",
+    "Main specialisation": "Anaesthesia; General medicine; General practicioner; Mental health; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child health; Public health; Radiology; Surgery; Other - see website",
+    "Public/Private facility": "Private",
+    "Accreditation": "Hospital Accreditation (HA)"
+  },
+  {
+    "Name": "Nonthavej Hospital",
+    "Email": "intercs@nonthavej.co.th",
+    "Telephone": "+66 (0)2596 7817",
+    "Address": "432 Ngamwongwan Rd. Bangkhen Nonthaburi 11000, Thailand",
+    "English speaking staff": "Some",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "JCI , HA , ISO15189-2007 , GMP/HACCP"
+  },
+  {
+    "Name": "Bangkok Hospital",
+    "Email": "info@bangkokhospital.com",
+    "Telephone": "+66 (0)23103000",
+    "Address": "2 Soi Soonvijai 7,New Petchburi Rd., Huaykwang, Bangkok 10310 Thailand",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Private",
+    "Accreditation": "The Medical Council of Thailand"
+  },
+  {
+    "Name": "Chularat 3 International Hospital",
+    "Email": "imcch3@chularat.com",
+    "Telephone": "+66 (0)2033 2900",
+    "Address": "88/8-9 Theparak road, km. 14.5, Bang Pla Subdistrict, BangPlee District, Samut Prakan Province 10540",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Other - see website",
+    "Public/Private facility": "Private",
+    "Accreditation": "Joint Commision Internation and Hospital Accreditation"
+  },
+  {
+    "Name": "Kluaynamthai Hospital",
+    "Email": "worrawut@knthealth.com",
+    "Telephone": "+66 (0)2769 2000",
+    "Address": "80 soi Rongphyaban 2 Rama 4 Rd., Klongtoey Bangkok 10110",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; General practicioner; Mental health; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child health; Pathology; Psychiatry; Public health; Surgery",
+    "Public/Private facility": "Private",
+    "Accreditation": "Joint Commission International"
+  },
+  {
+    "Name": "Phyathai 2 Hospital",
+    "Email": "onestop@phyathai.com",
+    "Telephone": "+66 (0)2617 2444",
+    "Address": "943 Phaholyothin Rd., Phyathai, Phyathai, Bangkok 10400 Thailand",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations; Anaesthesia; Emergency medicine; General medicine; General practicioner; Mental health; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child health; Pathology; Psychiatry; Radiology; Surgery; Other - see website",
+    "Public/Private facility": "Private",
+    "Accreditation": "JCI accreditation, Joint Commisssion International Standards of Clinical Care Program (CCPC) on Acute Myocardial infarction"
+  },
+  {
+    "Name": "Pitsanuvej Hospital",
+    "Email": "pitsanuvejcare@psv.co.th",
+    "Telephone": "+66 (0)97923 4343",
+    "Address": "211 Khunpirentoratep Rd., A. Muang Phitsanulok, 65000 Thailand",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; General practicioner; Mental health; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child health; Psychiatry; Radiology; Surgery; Other - see website",
+    "Public/Private facility": "Private",
+    "Accreditation": "Joint Commission International"
+  },
+  {
+    "Name": "Rachvipa MRI Center",
+    "Email": "contact@rachvipamri.com",
+    "Telephone": "+66 (0)2158 1088",
+    "Address": "9 Rachadapisek 56, Lad yao, Chatujak, Bangkok 10900",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Radiology",
+    "Public/Private facility": "Private",
+    "Accreditation": "Joint Commission International"
+  },
+  {
+    "Name": "Samitivej Sriracha Hospital (SSH)",
+    "Email": "infossh@samitivej.co.th",
+    "Telephone": "+66 (0)320 300",
+    "Address": "8 Soi Laemket, Jermjompol Road, Sriracha, Chonburi 20110",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; General practicioner; Mental health; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child health; Psychiatry; Public health; Radiology; Surgery; Other - see website",
+    "Public/Private facility": "Private",
+    "Accreditation": "Joint Commission International (JCI)   Joint Commission on Accreditation of Healthcare Organization (JCAHO) and International Standardization Organization (ISO)"
+  },
+  {
+    "Name": "Sikarin Hospital",
+    "Email": "imc.inquiry@sikarin.com",
+    "Telephone": "+66 (0)2366 9900",
+    "Address": "Sikarin Hospital, 976 Lasalle Road, Bangna Tai, Bangna, Bangkok 10260",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; General practicioner; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child health; Pathology; Public health; Radiology; Surgery; Other - see website",
+    "Public/Private facility": "Private",
+    "Accreditation": "Joint Commission International, Joint Commission International Acute Myocardial Infarction Program, Joint Commission International Diabetes Mellitus Program, Joint Commission International Primary Stroke Program, Hospital Accreditation"
+  },
+  {
+    "Name": "Bangkok Hospital Siriroj",
+    "Email": "interoffice@phuketinternationalhospital.com",
+    "Telephone": "+66 (0)7636 1888",
+    "Address": "Bangkok Hospital Siriroj, 44 Chalermprakiat Ror 9 Rd., Vichit, Muang, Phuket, 83000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; General practicioner; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child health; Radiology; Surgery; Other - see website",
+    "Public/Private facility": "Private",
+    "Accreditation": "Joint Commission International"
+  },
+  {
+    "Name": "Srisawan Hospital Nakhonsawan",
+    "Email": "sswhospital@hotmail.com",
+    "Telephone": "+66 (0)5622 1222",
+    "Address": "33/64 Dowadeung Road, Muang, Nakhonsawan 60000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; General practicioner; Obstestrics and gynaecology; Ophtalmology; Pathology; Radiology; Surgery",
+    "Public/Private facility": "Private",
+    "Accreditation": "Joint Commission International"
+  },
+  {
+    "Name": "World Medical Hospital",
+    "Email": "IMSC-center@wmchospital.com",
+    "Telephone": "+66 (0)2836 9999",
+    "Address": "44 moo 4 Chaengwattana Rd., Pakkret, Nonthaburi 11120 Thailand",
+    "English speaking staff": "Some",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; General practicioner; Mental health; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child health; Pathology; Psychiatry; Public health; Radiology; Surgery; Other - see website",
+    "Public/Private facility": "Private",
+    "Accreditation": "Joint Commission International (JCI), DNV-GL Hospital Accreditation"
+  },
+  {
+    "Name": "Yanhee International Hospital",
+    "Email": "info@yanhee.net",
+    "Telephone": "+66 (0)2879 0300",
+    "Address": "454 Charansanitwong Road, Bang-o, Bangplad, Bangkok 10700",
+    "English speaking staff": "Yes",
+    "Main specialisation": "General medicine; Obstestrics and gynaecology; Paediatrics and child health; Surgery; Other - see website",
+    "Public/Private facility": "Private",
+    "Accreditation": "Joint Commission International (JCI)"
+  },
+  {
+    "Name": "Samitivej Hospital",
+    "Email": "svhinterinsurance@samitivej.co.th",
+    "Telephone": "+66 (0)2022 2900",
+    "Address": "133 Sukhumvit 49, Klongtan Nua, Vadhana, Bangkok 10110",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Private",
+    "Accreditation": "The Healthcare Accreditation Institute (Public Organization)"
+  }
+]

@@ -10,7 +10,8 @@
     "start": "node start.js",
     "dev": "nodemon start.js",
     "lint": "standard",
-    "test": "npm run lint && gulp generate-assets && jest"
+    "test": "npm run lint && gulp generate-assets && jest",
+    "kill": "kill $(lsof -t -i:3000) | exit 0"
   },
   "dependencies": {
     "acorn": "^7.1.1",
@@ -39,6 +40,7 @@
     "html-table-to-json": "^1.0.0",
     "inquirer": "^7.1.0",
     "keypather": "^3.0.0",
+    "lodash": "^4.17.21",
     "marked": "^1.2.0",
     "nodemon": "^2.0.7",
     "notifications-node-client": "^4.7.2",
@@ -62,6 +64,7 @@
     "supertest": "^4.0.2"
   },
   "nodemonConfig": {
+    "delay": "1000",
     "watch": [
       "app/"
     ]

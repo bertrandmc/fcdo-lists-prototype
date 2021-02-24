@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+  Question page
+{% endblock %}
+
+{% block beforeContent %}
+  <a class="govuk-back-link" href="{{ previousRoute }}">Back</a>
+{% endblock %}
+
+{% block content %}
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+
+      <h1 class="govuk-heading-xl" for="sort">Country?</h1>
+
+      <form class="form" action="{{ nextRoute }}" method="post">
+        <div class="govuk-form-group">
+          <select class="govuk-select" id="country" name="country">
+            <option value=""></option>
+            {% for country in countriesList %}
+              <option value="{{ country.value.toLowerCase() }}">{{ country.text }}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <button class="govuk-button" data-module="govuk-button">Continue</button>
+      </form>
+    </div>
+  </div>
+
+{% endblock %}

@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+  Question page
+{% endblock %}
+
+{% block beforeContent %}
+  <a class="govuk-back-link" href="{{ previousRoute }}">Back</a>
+{% endblock %}
+
+{% block content %}
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      <form class="form" action="{{ nextRoute }}" method="post">
+        <div class="govuk-form-group">
+          <fieldset class="govuk-fieldset" aria-describedby="practice-area-hint">
+            <legend class="govuk-fieldset__legend govuk-fieldset__legend--l">
+              <h1 class="govuk-fieldset__heading">
+                Which legal practice areas do you need?
+              </h1>
+            </legend>
+            <div id="practice-area-hint" class="govuk-hint">
+              Select all that apply.
+            </div>
+            <div class="govuk-checkboxes">
+              {% for practiceArea in practiceAreasList %}
+                <div class="govuk-checkboxes__item">
+                  <input class="govuk-checkboxes__input" name="practiceArea" type="checkbox" value="{{ practiceArea.toLowerCase() }}">
+                  <label class="govuk-label govuk-checkboxes__label" for="practice-area">
+                    {{ practiceArea }}
+                  </label>
+                </div>
+              {% endfor %}
+            </div>
+
+          </fieldset>
+        </div>
+        <button class="govuk-button" data-module="govuk-button">Continue</button>
+      </form>
+    </div>
+  </div>
+
+{% endblock %}

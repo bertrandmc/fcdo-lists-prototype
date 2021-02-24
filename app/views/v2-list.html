@@ -1,0 +1,76 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+  Service finder
+{% endblock %}
+
+{% block header %}
+  <!-- Blank header with no service name for the start page -->
+  {{ govukHeader() }}
+{% endblock %}
+
+{% block beforeContent %}
+
+{% endblock %}
+
+{% block content %}
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      <h1 class="govuk-heading-xl">
+        Search results
+      </h1>
+    </div>
+  </div>
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-one-third">
+      <aside>
+        <p class="govuk-body brexit-checker__criteria_explanation">
+          Because you said: <a href="/service-finder-v2/find/">Start again</a>
+        </p>
+        <ul class="govuk-list govuk-list--bullet">
+          <li>
+            Service type is <strong>{{ _.upperFirst(_.lowerCase(serviceType)) }}</strong>.
+          </li>
+          <li>
+            Country is <strong>{{ _.upperFirst(country) }}</strong>.
+          </li>
+          <li>
+            Region is <strong>{{ _.upperFirst(region) }}</strong>.
+          </li>
+          {% if isSearchingForLawyers %}
+            <li>
+              Practice areas are <strong>{{ practiceArea }}</strong>.
+            </li>
+            <li>
+              Need legal aid <strong>{{ legalAid }}</strong>.
+            </li>
+          {% endif %}
+        </ul>
+      </aside>
+    </div>
+
+    <div class="govuk-grid-column-two-thirds">
+      <ul class="govuk-list">
+        {% if listToRender.length === 0 %}
+          <p>We couldn't find any results for this search, please <a href="/service-finder-v2/find/">try again</a>
+        {% endif %}
+        {% for listItem in listToRender %}
+          <li class="app-search-result">
+            {% for key, value in listItem %}
+              {% if key === "Name" %}
+                <h2 class="govuk-heading-s govuk-!-margin-bottom-4">
+                  {{value}}
+                </h2>
+              {% else %}
+                <p class="govuk-body govuk-!-font-size-16 govuk-!-margin-bottom-1">
+                  <strong>{{ key }}</strong>: {{ value }}
+                </p>
+              {% endif %}
+            {% endfor %}
+          </li>
+          <hr class="govuk-section-break govuk-section-break--m govuk-section-break--visible">
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endblock %}
