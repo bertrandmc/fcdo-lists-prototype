@@ -6,13 +6,16 @@ const countriesList = require('./data/countries.json')
 const practiceAreasList = require('./data/practiceAreas.json')
 const thailandLawyers = require('./data/thailand-lawyers.json')
 const thailandMedicalFacilities = require('./data/thailand-medical-facilities.json')
+const spainLawyers = require('./data/spain')
 
 const fakeDB = {
   thailand: {
     lawyers: thailandLawyers,
     'medical-facilities': thailandMedicalFacilities
   },
-  spain: {},
+  spain: {
+    lawyers: spainLawyers
+  },
   query: function (params) {
     const { country, serviceType } = params
     return _.get(this, `${country.toLowerCase()}.${serviceType.toLowerCase()}`, [])

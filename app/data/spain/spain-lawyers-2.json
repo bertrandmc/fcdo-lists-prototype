@@ -1,0 +1,552 @@
+[
+  {
+    "Name": "Cristina Carrillo Cabrera",
+    "Law Firm": "Carillo y Asociados",
+    "Telephone": "+34607909484",
+    "Address": "Calle Ramos Puente Nº 9, Bajo-A, Torremolinos, Malaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Criminal",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Francisco Jose Ortega Moreno",
+    "Law Firm": "AF Consulting Lawyers",
+    "Telephone": "+34722277677",
+    "Address": "Calle Vilchez 6, 1B, Motril 18600 Granada",
+    "Regions Served": "Andalucia",
+    "Legal Practice Areas": "Corporate; Criminal; Immigration; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Jose Maria Alonso Martin",
+    "Law Firm": "Alonso & Weber abogados",
+    "Telephone": "+34951132760",
+    "Address": "Calle Granados 3, 4ºB, 29008, Málaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Corporate; Criminal; Employment; Family; Health; Intellectual property; Maritime; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Guerrero Rafael",
+    "Law Firm": "Andalucia-Lawyers",
+    "Telephone": "+34958290580",
+    "Address": "Camino de Ronda, 74, 3º, P4, 18004. Granada",
+    "Regions Served": "Andalucia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; Family; Immigration; International; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Jose Miguel López",
+    "Law Firm": "Axarquía Solicitors",
+    "Telephone": "+34952901225",
+    "Address": "Calle Camino de Remanente, nº 2, 1º A, Vélez-Málaga, Málaga, 29700",
+    "Regions Served": "Málaga, Manilva, Marbella, Mijas, Nerja",
+    "Legal Practice Areas": "Corporate; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Katherine Biel Gleeson",
+    "Law Firm": "Biel Gleeson Abogado & Solicitor",
+    "Telephone": "+34639099395",
+    "Address": "Calle Boleros 11, 18198 Granada",
+    "Regions Served": "Andalucia",
+    "Legal Practice Areas": "Corporate; Employment; Family; Immigration; International; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Oscar Ernesto Bornico",
+    "Law Firm": "Bornico Farquharson Solicitors",
+    "Telephone": "+34660622374",
+    "Address": "Urb. Monte Duquesa, The courtyard, Local 31 B. 29692- Puerto de la Duquesa, Manilva Spain",
+    "Regions Served": "Costa del Sol",
+    "Legal Practice Areas": "Corporate; Family; Immigration; Intellectual property; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Miguel Angel Bravo",
+    "Law Firm": "Bravo Legal, S.L.",
+    "Telephone": "+34952463499",
+    "Address": "Calle Córdoba 9, Office 5, 29640 Fuengirola",
+    "Regions Served": "Malaga Province",
+    "Legal Practice Areas": "Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Victoria Westhead",
+    "Law Firm": "British Lawyer In Spain",
+    "Telephone": "+34678826771",
+    "Address": "Edificio Santa Maria 1 °N, Avenida Tivoli 15, 29631 Benalmadena, Malaga",
+    "Regions Served": "Malaga Province",
+    "Legal Practice Areas": "Criminal; Immigration; Real estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Sixto Garcia",
+    "Law Firm": "Costadelaluz-Lawyers",
+    "Telephone": "+34956531214",
+    "Address": "Calle Hormaza 28, 2ºB, 11130 Chiclana, Cadiz",
+    "Regions Served": "Costa de la Luz and Andalucia",
+    "Legal Practice Areas": "Criminal; Family; International; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "María L De Castro",
+    "Law Firm": "Costaluz Lawyers",
+    "Telephone": "+34956092687",
+    "Address": "Calle Fuerte Santiago 3, Centro Blas Infante, Entreplanta 2, oficina 1c 11201 Algeciras, Cádiz",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Corporate; Family; International; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Michael Davies",
+    "Law Firm": "Davies Abogados/Solicitors & Barristers",
+    "Telephone": "+34950472775",
+    "Address": "Parque Comercial 50, 04638, Mojacar",
+    "Regions Served": "Andalucia",
+    "Legal Practice Areas": "Family; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Manuel Davó",
+    "Law Firm": "Davo & Asociados Abogados SLP",
+    "Telephone": "+34952064781",
+    "Address": "Calle Pirandello Street 16, 6th Floor, Apartament nº 1, 29010, Malaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Sandra Wrightson",
+    "Law Firm": "De Cotta Law",
+    "Telephone": "+34952527014",
+    "Address": "Centro Comercial Valdepinos 1 y 3 Urb.Calypso, Mijas Costa, Málaga",
+    "Regions Served": "All Regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Eugene Delgado de la Cuesta",
+    "Law Firm": "DJ Ortiz Y Asociados, SL",
+    "Telephone": "+34954561056",
+    "Address": "Calle Almirante Lobo 2, 2 Iza, 41001, Seville",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Edward Grant",
+    "Law Firm": "Edward Grant Associates",
+    "Telephone": "+34952822876",
+    "Address": "Plaza de la Solidaridad, 12, 5ª planta, 29006 Málaga",
+    "Regions Served": "Southern Spain",
+    "Legal Practice Areas": "Family; Maritime; Real estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Francisco de Asis Gamboa",
+    "Law Firm": "Fitzwilliam Solicitors",
+    "Telephone": "+34951519851",
+    "Address": "Calle Llanos de San Ramón 3, Edf. Mayoral, 2º 6, Marbella, Málaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Corporate; International; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Fernando Franco",
+    "Law Firm": "Franco Abogados",
+    "Telephone": "+34952863819",
+    "Address": "Calle Ramon Gomez de la Serna 14, 29602 Marbella, Málaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Immigration; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Francisco Gómez Moreno",
+    "Law Firm": "Gómez Abogados",
+    "Telephone": "+34689740442",
+    "Address": "Avenida Gerald Brenan 103, Edificio Perla 1, Local 2, Oficina 3, 29120 Alhaurín el Grande, Málaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Family; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Marianela Nuñez",
+    "Law Firm": "Hispalaw Abogados",
+    "Telephone": "+34605815338",
+    "Address": "Calle Bolivia, 12, ground floor, 23680 Manilva, Málaga",
+    "Regions Served": "Spain, Jaen, Alcala la Real",
+    "Legal Practice Areas": "Criminal; Family; Immigration; Intellectual property; Personal injury; Real estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Jaime Casado Ruiz",
+    "Law Firm": "Jaime Casado Ruiz - Despacho Jurídico",
+    "Telephone": "+34954281614",
+    "Address": "Edificio Metropol I, 1 Calle Industria, 41927, Mairena del Aljarafe, Seville",
+    "Regions Served": "Sevilla, Cádiz, Huelva",
+    "Legal Practice Areas": "Corporate; Criminal; Employment; Family; International; Maritime; Personal injury; Real estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Jesus M Hernandez Carmona",
+    "Law Firm": "Jesus Hernandez C JMHC",
+    "Telephone": "+34679474647",
+    "Address": "San Pablo 18, 2nd floor La Linea de la Concepción, Cádiz",
+    "Regions Served": "Andalucia",
+    "Legal Practice Areas": "Corporate; Criminal; Family; Immigration; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Juan  Domingo Corpas",
+    "Law Firm": "Juan Domingo & abogados",
+    "Telephone": "+34952857292",
+    "Address": "Calle Jacinto Benavente nº 30 1º F, 29601 Marbella, Málaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Intellectual property; International; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Marisa Moreno Castillo",
+    "Law Firm": "Just Law Spanish Solicitors",
+    "Telephone": "+34663373535",
+    "Address": "2, Calle Chile, Fuengirola (Malaga) 29640",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Corporate; Criminal; Employment; Family; Immigration; International; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "José Manuel  Díaz Montes",
+    "Law Firm": "Konsell Abogados y Asesores, S.L.",
+    "Telephone": "+34956330083",
+    "Address": "Calle Porvera nº 6, 1º A, 11403 Jerez de la Frontera, Cádiz",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Raymond L. Nesbitt",
+    "Law Firm": "Larrain Nesbitt Abogados",
+    "Telephone": "+34952192288",
+    "Address": "Calle San Juan Bosco 2, 6B, 29602, Marbella, Malaga",
+    "Regions Served": "Malaga",
+    "Legal Practice Areas": "Immigration; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Encarnacion Mercedes Teva Villen",
+    "Law Firm": "Lexpertis",
+    "Telephone": "+34953583198",
+    "Address": "Calle Archidona 36, 29532, Mollina-Málaga",
+    "Regions Served": "Malaga-Granada-Jaen",
+    "Legal Practice Areas": "Family; Health; Immigration; Intellectual property; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "David Llucia",
+    "Law Firm": "llucia & AS-Lawyers",
+    "Telephone": "+34954228149",
+    "Address": "Plaza Godinez 4, 41001, Seville",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Sergio Molina Fernandez",
+    "Law Firm": "M & S Molina Abogados",
+    "Telephone": "+34659451263",
+    "Address": "Calle Princesa Nº 5, 1º B, 29740, Torre del Mar, Velez-Malaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Corporate; Criminal; Employment; Family; Health; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Miguel Angel Manzanares Macias",
+    "Law Firm": "Manzanares Abogados",
+    "Telephone": "+34952824112",
+    "Address": "Avda. Ricardo Soriano No 34,  Edif. Portillo Pl. 2 - Ofic. 4, 29601, Marbella, Málaga",
+    "Regions Served": "Málaga province",
+    "Legal Practice Areas": "Corporate; Employment; Family; Immigration; International; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Francesco Luca Caronna",
+    "Law Firm": "Martin-Caronna abogados y consultores",
+    "Telephone": "+34658618276",
+    "Address": "Calle Josè Galán Merino 6, 41015, Seville",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Criminal; Employment; Family; Immigration; Intellectual property; International; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Marie Claire Richardson",
+    "Law Firm": "MCR Lawyers",
+    "Telephone": "+34661548733",
+    "Address": "Avenida 28 de Febrero, 3D, Salobreña, 18680, Granada",
+    "Regions Served": "Granada, Málaga",
+    "Legal Practice Areas": "Family; Immigration; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Luis Mesa Vila",
+    "Law Firm": "Mesa & Green Abogados/Lawyers",
+    "Telephone": "+34952901133",
+    "Address": "Centro de Negocios Tembo, bloque A, Oficina 1, 29602 Marbella, Málaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Alex Radford",
+    "Law Firm": "My Lawyer in Spain",
+    "Telephone": "+34951203094",
+    "Address": "Calle JuanRamon Jimenez 10, Edificioa Marbeland 4B, Marbella",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Corporate; Employment; Family; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Miguel Angel  Peral Cortes",
+    "Law Firm": "My Legal PA Associates & Gestoria Peral Cabello",
+    "Telephone": "+34952810391",
+    "Address": "C.C. Centro Plaza, Avd. Manolete s/n, Urb. Conjunto Casaño 7-3B, 29660 Nueva Andalucia, Marbella, Malaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Noemi Alarcon",
+    "Law Firm": "Nav Consultores",
+    "Telephone": "+34675417771",
+    "Address": "Plaza Arriola 1, 1, 29005, Málaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Family; Immigration; International",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Javier Perez de Vargas Ruesdas",
+    "Law Firm": "Perez De Vargas Abogados",
+    "Telephone": "+34 952778848",
+    "Address": "Calle Mª Auxiliadora Nº 2, edificio Pata-Pata 5ª Planta, Marbella",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Corporate; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Amaya  Luzuriaga Fernández",
+    "Law Firm": "Prime Legal Spain",
+    "Telephone": "+34656438361",
+    "Address": "Alonso de Bazan 6, 1st floor, Office 5, 29602 Marbella, Málaga",
+    "Regions Served": "Andalucia, Murcia & Valencia. Especially Marbella & Costa del Sol, Costa Cálida & Costa Blanca.",
+    "Legal Practice Areas": "Family; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Fernando De Andres Gaston",
+    "Law Firm": "Professional Advice Spain SLU (Pro-Advice)",
+    "Telephone": "+34609454650",
+    "Address": "Calle General Segura, 12, 2nd floor 1st door. 04004 Almería",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Family; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Rebecca Philip Crowther",
+    "Law Firm": "Puerta Vides SL",
+    "Telephone": "+34952764181",
+    "Address": "Edificio Sabadell, Avda Ricardo Soriano 22, 3-6, 29601, Marbella",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Corporate; Criminal; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Rafael Berdaguer",
+    "Law Firm": "Rafael Berdaguer Abogados",
+    "Telephone": "+34952823085",
+    "Address": "Avenida Ricardo Soriano, 29, Edificio Azahara Oficinas, 4ª planta, 29601 Marbella",
+    "Regions Served": "Andalucía",
+    "Legal Practice Areas": "Corporate; Family; International; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Jose Luis Rodriguez",
+    "Law Firm": "Ros Abogados",
+    "Telephone": "+34951592529",
+    "Address": "Avenida Ricardo Soriano 29, Edificio Azahara Oficinas, Planta 1ª Oficinas 1 y 2 29601 Marbella",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Family; Health; Intellectual property; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Jesús Ruíz Ballesteros",
+    "Law Firm": "Ruiz Ballesteros Economistas y Abogados, SL",
+    "Telephone": "+34952779874",
+    "Address": "Calle Juan Ramón Jiménez S/N, Bajo 6. 29601, Marbella, Málaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Family; Immigration; Intellectual property; International; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Sacha David Ruiz Dickson",
+    "Law Firm": "Ruiz-Dickson, Abogados",
+    "Telephone": "+34952770426",
+    "Address": "Calle Nuestra Señora de Gracia 5, 1º-3, 29602 Marbella, Malaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Family; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Javier Serrano",
+    "Law Firm": "S&J Solicitors",
+    "Telephone": "+34638106260",
+    "Address": "Avda. Constitucion, 26, 41001, Seville",
+    "Regions Served": "Sevilla y Huelva",
+    "Legal Practice Areas": "Criminal; Family; Health; Immigration; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Lorenzo & Sebastian Sánchez-Stewart de Torres",
+    "Law Firm": "Sánchez-Stewart Abogados",
+    "Telephone": "+34952770704",
+    "Address": "Calle Nuestra Señora de Gracia, 1 - 1º, 29602 Marbella, Málaga",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Corporate; Family; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Ken Sasaki Bulpe",
+    "Law Firm": "Sasaki Abogados",
+    "Telephone": "+34956781345",
+    "Address": "Calle Altamira, s/n, Edificio Ayala, 1st floor, office 26, 11311, Pueblo Nuevo de Guadiaro, San Roque, Cádiz",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Criminal; Family; Immigration; Personal injury; Real estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Ines Barba",
+    "Law Firm": "Sbj Abogados",
+    "Telephone": "+34606990997",
+    "Address": "Calle Nuestra Señora de Gracia 28 1D, Marbella",
+    "Regions Served": "All Regions",
+    "Legal Practice Areas": "Criminal; International; Personal injury",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Marina Rodriguez",
+    "Law Firm": "Sotogrande-Solicitors",
+    "Telephone": "+34671093857",
+    "Address": "Calle Reina Sofia, Apto Campo Polo, 6; 11310; San Roque; Cadiz",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; Immigration; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Rosa  Vega Delgado",
+    "Law Firm": "Tejada Solicitors",
+    "Telephone": "+34676815262",
+    "Address": "Calle Camino de Malaga 22A, Edificio Espejo,29700, Velez-Malaga",
+    "Regions Served": "Malaga",
+    "Legal Practice Areas": "Corporate; Employment; Family; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Juan Antonio Rodríguez García",
+    "Law Firm": "Temple Cambria Lawyers",
+    "Telephone": "+34617073669",
+    "Address": "Calle Virgen de la Luz, corner with Calle Poniente, S/N, 11100, Conil de la Frontera, Cádiz, Spain",
+    "Regions Served": "Andalucia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Health; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Maria Teresa Toscano Martin",
+    "Law Firm": "Toscanolex",
+    "Telephone": "+34699154530",
+    "Address": "Avda Salvador Allende Nº 18, 29620  Torremolinos, Málaga",
+    "Regions Served": "Torremolinos, Málaga.",
+    "Legal Practice Areas": "Bankruptcy; Criminal; Family; Health; Immigration; Personal injury; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Victorio Heras Garcia",
+    "Law Firm": "Victorio Heras Abogados",
+    "Telephone": "+34647460099",
+    "Address": "Calle Alhondiga 9, Baza, 18800 Granada",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Criminal; Employment; Family; Health; Immigration; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Victoria Eugenia Villalba Gonzalez",
+    "Law Firm": "Villalba solicitors and accountants S.L.",
+    "Telephone": "+34950431720",
+    "Address": "Avenida 28 de Febrero, 7, Albox, 04800, Almeria",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Virginia Ramos Martos",
+    "Law Firm": "Virginia Ramos Lawyer",
+    "Telephone": "+34616243990",
+    "Address": "Avenida de la Aeronautica 10, Edificio Helios, 7º floor, office 7, Seville",
+    "Regions Served": "All regions",
+    "Legal Practice Areas": "Immigration; International; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  }
+]

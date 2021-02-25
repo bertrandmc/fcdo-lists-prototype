@@ -1,0 +1,132 @@
+[
+  {
+    "Name": "Guillermo Besga Saenz de Magarola",
+    "Law firm": "Mallorca Law",
+    "Telephone": "+34 689457006",
+    "Address": "Paseo del Borne 17, 1A, 07012 Palma de Mallorca",
+    "Regions Served": "Palma",
+    "Legal Practice Areas": "Real estate; property; private clients; inheritance & tax; corporate law",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Gabriel Buades",
+    "Law firm": "Bufete Buades",
+    "Telephone": "+34 971228500",
+    "Address": "Av. Jaime III, 4, 07012 Palma de Mallorca",
+    "Regions Served": "Balearic Islands",
+    "Legal Practice Areas": "Arbitration & mediation; tourism; technology & data protection; criminal; commercial & corporate; labour & social security; family succession & Balearic regional law; administrative &constitutional law; real estate investments; credit and bankruptcy law; property, building & planning law; civil responsibility & damages;",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Borja Casanovas",
+    "Law firm": "Casasnovas Abogados",
+    "Telephone": "+34 971723902",
+    "Address": "Av.Jaime III 3, 2º-1a, 07001 Palma de Mallorca",
+    "Regions Served": "Palma",
+    "Legal Practice Areas": "Family law; criminal law; extraditions; international adoptions; corporate; litigation; intellectual property; real estate; insolvency; aviation",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Margaret Anne Cunningham",
+    "Law firm": "Cunningham Associates",
+    "Telephone": "+34 971591118",
+    "Address": "Calle Miguel de los Santos Oliver, 10, local 3, 07181 Palmanova, Mallorca",
+    "Regions Served": "All of Mallorca",
+    "Legal Practice Areas": "Conveyancing; inheritance; family law; resident & non-resident tax returns; business set up & tax returns;",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Elena Font Carvahal",
+    "Law firm": "Font Mora Sainz de Baranda",
+    "Telephone": "+34 971456222",
+    "Address": "Avenida Alejandro Rosselló, 40, 8º 07002 Palma",
+    "Regions Served": "Mallorca, Ibiza and Formentera",
+    "Legal Practice Areas": "Conveyancing; real estate; inheritance; litigation; insolvency proceedings; personal injuries; labour and social security law;",
+    "Legal Aid": "No",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Jose Frau Greenfield",
+    "Law firm": "Bufete Frau",
+    "Telephone": "+34 971228036",
+    "Address": "Calle San Miguel 36, 1, 07002, Palma de Mallorca",
+    "Regions Served": "Mallorca",
+    "Legal Practice Areas": "Property sales & purchase conveyance; legal tax representations; tax advice for residents and non-residents; maritime law; civil & family law",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Eugenia  Garcias de España",
+    "Law firm": "Eugenia Garcias de España",
+    "Telephone": "+34 971908100",
+    "Address": "Avda Jaime III 17, Despacho 42, 07012 Palma de Mallorca",
+    "Regions Served": "Palma",
+    "Legal Practice Areas": "Private & commercial law",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Gabriel Garcias Planas",
+    "Law firm": "Gabriel Garcias Planas",
+    "Telephone": "+34 971710624",
+    "Address": "Paseo Mallorca 10, Palma de Mallorca 07012",
+    "Regions Served": "Balearic Islands and Spain",
+    "Legal Practice Areas": "Criminal law",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Marga Matas",
+    "Law firm": "Your Lawyer in Palma",
+    "Telephone": "34971711105",
+    "Address": "Calle Ca´n Maçanet 3 bajos izquierda, 07003 Palma de Mallorca",
+    "Regions Served": "Spain",
+    "Legal Practice Areas": "Family law; conveyancing; wills; corporate law; charities; insurance; criminal law; insolvency",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Lucas Maura",
+    "Law firm": "Bufete Maura",
+    "Telephone": "+34 971710941",
+    "Address": "Edificio Fénix, Paseo Marítimo Calle Aigua Dolça n1, 1 -6a, 07014, Palma de Mallorca",
+    "Regions Served": "Palma",
+    "Legal Practice Areas": "Real estate; property; tenancy agreements; conveyance; inheritance & wills; tax consultancy & advice; legal tax representations & resident and non-resident tax advice; litigation & insolvency; administrative law; planning regulations & liability matters; corporate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Antonio Morell",
+    "Law firm": "Grimalt & Associates",
+    "Telephone": "+34 971719220",
+    "Address": "Calle San Miguel, 30-5º, 07002 Palma de Mallorca",
+    "Regions Served": "Palma",
+    "Legal Practice Areas": "Real estate; property; tenancy agreements; conveyance; inheritance & wills: tax consultancy & advice; legal tax representations &  resident and non-resident tax advice;  litigation & insolvency; administrative law; planning regulations & liability matters;  corporate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Gloria Olmos",
+    "Law firm": "Sistema Legal",
+    "Telephone": "+34 971764481",
+    "Address": "Calle San Miguel 63-2º, 07002 Palma de Mallorca",
+    "Regions Served": "All Balearic Islands and Spain.",
+    "Legal Practice Areas": "Criminal law; gender violence & human trafficking; juvenile law; human rights; prison specialist",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Rosa Torrandell",
+    "Law firm": "Rosa Torrandell",
+    "Telephone": "+34 971098980",
+    "Address": "Carrer de Josep Anselm Clavé, 8, 7º 2ª, 07002, Palma de Mallorca",
+    "Regions Served": "Palma, Mainland Spain, Canary Islands",
+    "Legal Practice Areas": "Family law; inheritance; all property related matters; criminal law; contract law",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  }
+]

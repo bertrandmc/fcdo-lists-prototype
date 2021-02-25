@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "Ralph Smith",
+    "Law firm": "Gómez-Acebo & Pombo Abogados S.L.P.",
+    "Telephone": "+34 91 582 91 00",
+    "Address": "Castellana 216, 28046 Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Health; Intellectual Property; International; Maritime; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Rosana Hallett",
+    "Law firm": "Gómez-Acebo & Pombo",
+    "Telephone": "+34 94 415 70 15",
+    "Address": "Plaza Euskadi 5, planta 19, Bilbao 48009",
+    "Regions Served": "Bilbao",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; Intellectual Property; International; Real Estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "María García de la Concha",
+    "Law firm": "Gómez-Acebo & Pombo",
+    "Telephone": "+34 91 582 91 00",
+    "Address": "Colón 36, 4º, 36201 Pontevedra, Vigo",
+    "Regions Served": "Vigo",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Intellectual Property; Maritime; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "César Gerardo Ayala Canales",
+    "Law firm": "All Law",
+    "Telephone": "+34 91 578 05 60",
+    "Address": "Paseo de la Castellana 140, 10ºD, 28046 Madrid",
+    "Regions Served": "Madrid, Lanzarote",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Family; Personal Injury; Real Estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Oscar Baeza Chibel",
+    "Law firm": "Baeza Abogados",
+    "Telephone": "+34 649 05 47 99",
+    "Address": "Calle Pensamiento, 27 - Izq. 3º 3 - 28020 Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Criminal; Employment; Family; Immigration; Personal Injury",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Margaret J. Hauschild Rey",
+    "Law firm": "Bennet&Rey",
+    "Telephone": "+34 91 186 32 68",
+    "Address": "Paseo de la Castellana, 119, 2º D, 28046 Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Criminal; Employment; Family; Immigration; International; Real Estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Juan-Antonio Berdejo",
+    "Law firm": "Berdejo-Abogados",
+    "Telephone": "+34 94 222 05 87",
+    "Address": "Calle Lealtad, 19, 1-C, 39002 Santander",
+    "Regions Served": "Cantabria, Castilla-León",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Tax; Real Estate; Family; Health; International; Criminal",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Gustavo Carlos Duguech Torriente",
+    "Law firm": "Duguech & Dip",
+    "Telephone": "+34 91 825 92 53",
+    "Address": "Calle Fernandez de la Hoz, nº 27, Ground Floor - Left, 28010 Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Corporate; Immigration; Family; Real Estate; Employment; International",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Viviana Echeverria Pascual",
+    "Law firm": "Echeverria Abogados",
+    "Telephone": "+34 94 342 57 26",
+    "Address": "Antonio Maria Labaien 14 - 4º B, 20009 San Sebastián",
+    "Regions Served": "Guipuzcoa - País Vasco",
+    "Legal Practice Areas": "Immigration",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Elena Garrido Martín",
+    "Law firm": "Sánchez-Cervera Abogados",
+    "Telephone": "+34 91 411 48 78",
+    "Address": "Calle General Oráa, 26, 28006, Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Corporate; Criminal; Family; Inheritance; International; Personal Injury; Real Estate;",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Florina García González",
+    "Law firm": "Florina García y Asociados",
+    "Telephone": "+34 98 523 45 55",
+    "Address": "Calle Uría 19, entresuelo izquierda, 33003 Oviedo (Asturias)",
+    "Regions Served": "Asturias",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Intellectual Property; International; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Elena Lino Garcia",
+    "Law firm": "Galicia Property Lawyers",
+    "Telephone": "+34 647 42 25 01",
+    "Address": "García Camba nº 6  4º A  Pontevedra 36001",
+    "Regions Served": "Asturias, Cantabria, Galicia, Madrid",
+    "Legal Practice Areas": "Family; International; Personal Injury; Real Estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Lucía Goy Mastromiechele",
+    "Law firm": "Goy Gentile Abogados",
+    "Telephone": "+34 91 435 45 19",
+    "Address": "Calle Ayala 17, 1C, 28001 Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Corporate; Family; Immigration; International; Real Estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Ramón Bustillo",
+    "Law firm": "InheritanceSpain",
+    "Telephone": "+34 636 54 24 65",
+    "Address": "Calle Asturias 21 1 D, Oviedo, 33004",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Family; Tax; Personal Injury; Real Estate; Inheritance",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Javier  Bicarregui",
+    "Law firm": "Iusfinder Abogados",
+    "Telephone": "+34 94 465 70 00",
+    "Address": "Gran Via 17, Dpto 402, Bilbao, 48001",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; Family; International; Real Estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Javier  Frías",
+    "Law firm": "Javier Frías",
+    "Telephone": "+34 635 53 68 98",
+    "Address": "Calle Capitán Haya 33, 10D, 28020, Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "International; Family; Real Estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Juan Manuel Batuecas Florindo",
+    "Law firm": "Juan Manuel Batuecas & Associates",
+    "Telephone": "+34 646 37 38 87",
+    "Address": "Santiago Alió, 9, 28018 Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Criminal; Family; Immigration; Personal Injury; Real Estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Fernando Martínez",
+    "Law firm": "Martínez Sanz Abogados",
+    "Telephone": "+34 91 192 20 12",
+    "Address": "Paseo General Martínez Campos, 42, bajo 28010 Madrid",
+    "Regions Served": "Madrid, Comunidad Valenciana",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; International; Real Estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Joseba Renobales",
+    "Law firm": "Renobales, Mariscal, Castresana, Abogados & Asociados",
+    "Telephone": "+34 94 423 40 00",
+    "Address": "Alameda Recalde 27, 1, 48009 Bilbao",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; Family; Health; Intellectual Property; International; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Rocco  Caira",
+    "Law firm": "Rocco Caira",
+    "Telephone": "+34 94 475 06 96",
+    "Address": "Avda. Madariaga 1, 48014 Bilbao",
+    "Regions Served": "Basque Country, Navarra, Cantabria",
+    "Legal Practice Areas": "Corporate; International",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Jeremy Scudamore",
+    "Law firm": "Scudamore Law",
+    "Telephone": "+34 91 593 91 26",
+    "Address": "Plaza de Castilla 3, 15ª E2, 28046 Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; Family; Immigration; Intellectual Property; International; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Bianca Sharma Sharma",
+    "Law firm": "Sharma Abogados",
+    "Telephone": "+34 91 326 95 23",
+    "Address": "Via de las Dos Castillas, 33, Atica 4 B-A, Pozuelo de Alarcón, 28224 Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Corporate; Criminal (emergencies); Family; Health; Immigration; Intellectual Property; Real Estate; Personal Injury;",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Carolina Trujillo Garzon",
+    "Law firm": "Trujillo Garzon Legal Consulting S.L.",
+    "Telephone": "+34 619 56 92 62",
+    "Address": "Plaza de Castilla 3, 28046, Madrid",
+    "Regions Served": "Madrid",
+    "Legal Practice Areas": "Corporate; Criminal; Employment; Family; Health; Immigration; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Andrea San Román",
+    "Law firm": "Valero San Román SLP",
+    "Telephone": "+34 647 78 52 30",
+    "Address": "Calle Suero de Quiñones 38, 2º izq., 28002 Madrid",
+    "Regions Served": "All regions in Spain",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; Family; Immigration; Intellectual Property; International; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  }
+]

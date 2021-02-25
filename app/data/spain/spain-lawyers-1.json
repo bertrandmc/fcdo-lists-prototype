@@ -1,0 +1,522 @@
+[
+  {
+    "Name": "Karen Moorby",
+    "Law firm": "AB Solicitors",
+    "Telephone": "34966449666",
+    "Address": "1 Calle Malaquita, Centro Comercial Costa Zenia, ground floor, office 26",
+    "Regions": "Andalucia, Comunidad Valenciana, Región de Murcia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Isaac Abad Garrido",
+    "Law firm": "Abad & Asociados Abogados & Economistas",
+    "Telephone": "34968583053",
+    "Address": "301 Avenida de la Libertad, 1º, Los Alcazares, Murcia",
+    "Regions": "Alicante, Murcia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Immigration; Intellectual property; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Adolfo Valor",
+    "Law firm": "Adolfo Valor, Abogado & Lawyer",
+    "Telephone": "34966804952",
+    "Address": "6 Calle Gambo, Edificio Nuevo Astoria, 3º, 303, Benidorm, 03503",
+    "Regions": "Alicante",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Health; Personal injury; Real estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Alicia Gomez Ferrandez",
+    "Law firm": "Advanta Group",
+    "Telephone": "34966796779",
+    "Address": "5 Plaza Sierra Castilla, Urbanización Marina, San Fulgencio, Alicante, 03177",
+    "Regions": "Costa Blanca",
+    "Legal Practice Areas": "Criminal; Employment; Family; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Juan Torres De Miguel",
+    "Law firm": "Advocats Abogados",
+    "Telephone": "34630872316",
+    "Address": "53-3ª Calle Joaquin Costa, Valencia, 46005",
+    "Regions": "Alicante, Castellón, Valencia",
+    "Legal Practice Areas": "Corporate; Family; Immigration; International; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Inmaculada Albiñana Luján",
+    "Law firm": "Albiñana-Moscardó Lawyers",
+    "Telephone": "34963287690",
+    "Address": "1–2 Calle Padilla, Valencia, 46005",
+    "Regions": "Alicante, Castellón, Valencia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Monna Laakso-Sáez",
+    "Law firm": "Aniorte & Laakso SLP",
+    "Telephone": "34965718549",
+    "Address": "74 Calle Ramón Gallud 74, 3º , Torrevieja, 03181",
+    "Regions": "Alicante, Costa Blanca, Murcia, Orihuela, Torrevieja",
+    "Legal Practice Areas": "Corporate; Family; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "John Chandler",
+    "Law firm": "AP Abogados",
+    "Telephone": "34620042601",
+    "Address": "2 Avenida de Albatera, Hondon de los Frailes, Alicante, 03689",
+    "Regions": "Alicante, Murcia",
+    "Legal Practice Areas": "Bankruptcy; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Mariano Arias Winogradow",
+    "Law firm": "Arias & Winogradow Law Firm",
+    "Telephone": "34635295400",
+    "Address": "3 Calle Orense, entresuelo D, Alicante, 03003",
+    "Regions": "Alicante, Madrid, Murcia, Valencia",
+    "Legal Practice Areas": "Corporate; Criminal; Family; Immigration; Intellectual property; International; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Esther Arroyo Martinez",
+    "Law firm": "Arroyo Legal",
+    "Telephone": "34966697151",
+    "Address": "9-11,3ºI Avenida Benito Perez Galdos, Alicante, 03004",
+    "Regions": "Almeria, Comunidad Valenciana, Madrid, Murcia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Carmen Ayela Samper",
+    "Law firm": "Ayela Abogados",
+    "Telephone": "34965205333",
+    "Address": "3 entresuelo Avenida Juan Bautista Lafora, Alicante, 03002",
+    "Regions": "Castilla la Mancha, Comunidad Valenciana, Madrid, Murcia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Jose Bernal-Quiros",
+    "Law firm": "B&Q Abogados",
+    "Telephone": "34868912859",
+    "Address": "9 Calle Gonzalez Adalid, 4ºA, Murcia, 30001",
+    "Regions": "Murcia",
+    "Legal Practice Areas": "Family; Intellectual property; International; Personal injury; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Gonzalo Blanco",
+    "Law firm": "Blanco Abogados",
+    "Telephone": "34678873844",
+    "Address": "58 Marqués de Campo, Flat 5 door 9, Denia, 46800",
+    "Regions": "Alicante, Castellon, Valencia",
+    "Legal Practice Areas": "Real estate; Family",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Oscar Ricor Morales",
+    "Law firm": "BZN Lex International Lawyers",
+    "Telephone": "34687888873",
+    "Address": "19 Avenida de las Cortes Valencianas, Local 5, Torrevieja, Alicante, 03182",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Health; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Sènakpon Gbassi",
+    "Law firm": "Cabinet Sènakpon Gbassi - Avocats",
+    "Telephone": "34965142999",
+    "Address": "44-5ºB Rambla de Méndez Núñez, Alicante, 03002",
+    "Regions": "Alicante",
+    "Legal Practice Areas": "Corporate; Family; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Gonzalo Calderón Chao",
+    "Law firm": "CC Lawyers",
+    "Telephone": "34965134928",
+    "Address": "3 Calle Alemania, 6º derecha, Alicante, 03003",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Family; Personal injury; Real estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Venancio Parra Torres",
+    "Law firm": "CIVIL SP S.L.",
+    "Telephone": "34965294005",
+    "Address": "33 Calle Apolo, 5th floor - Door E, Torrevieja, 03182",
+    "Regions": "Murcia, Valencian Community",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Family; International; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Hugo Gutiérrez Colás",
+    "Law firm": "Colas Abogados",
+    "Telephone": "34966868492",
+    "Address": "9 Calle Mozart, El Albir, Alfaz Del Pi, Alicante, 03581",
+    "Regions": "Alicante, Valencia",
+    "Legal Practice Areas": "Corporate; Criminal; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Nicolas Duru",
+    "Law firm": "DM Legal & Immobrokers",
+    "Telephone": "34674751813",
+    "Address": "32 Avda Jaime I, Entresuelo A, San Juan de Alicante, 03550",
+    "Regions": "Baleares, Comunidad Valenciana, Murcia",
+    "Legal Practice Areas": "Corporate; Criminal; Real estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Ignasi Costas",
+    "Law firm": "DWF-RCD (Rousaud Costas Duran S.L.P.U)",
+    "Telephone": "34961134468",
+    "Address": "17 Moratín, Valencia, 46002",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Augusto Scerrato",
+    "Law firm": "European Lawyer",
+    "Telephone": "34654340253",
+    "Address": "76 Calle Cirilo Amoros, Floor 3 Door 5, Valencia, 46004",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Antonio Ferrandez Amoros",
+    "Law firm": "Ferrandez Villena-Ferrandez Amoros-Abogados",
+    "Telephone": "34965718218",
+    "Address": "8, 2º-2, Calle María Parodi, Torevieja, 03181",
+    "Regions": "Alicante, Murcia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Health; Personal injury; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "0"
+  },
+  {
+    "Name": "Guadalupe Sánchez Baena",
+    "Law firm": "GM Legal Experts, S.L.",
+    "Telephone": "34965727295",
+    "Address": "16 Bajo Avenida del mediterráneo, Guardamar del Segura, Alicante, 03140",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Patricia Safont Gregori",
+    "Law firm": "Gregori Abogados",
+    "Telephone": "34964228212",
+    "Address": "10 Caballeros, 3rd right, Castellón, 12001",
+    "Regions": "Castellón, Tarragona, Teruel, Valencia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; Family; Health; Personal injury; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Emma Harvey Ryan",
+    "Law firm": "Harvey Lawyers & Associates",
+    "Telephone": "34865615070",
+    "Address": "Centro Comercial Arenal, 126 Avenida del Pla, Javea, Alicante, 03730",
+    "Regions": "Alicante, Castellón, Murcia, Valencia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Juan Antonio Hernández Mora-Martínez",
+    "Law firm": "Hernández Mora Lawyers",
+    "Telephone": "34699202140",
+    "Address": "3 Calle Lepanto, Entlo, Derecha, Murcia, 30008",
+    "Regions": "Costa Blanca South, Costa Cálida, Murcia, Orihuela Costa",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Isabel Montesinos",
+    "Law firm": "Imont Legal Services",
+    "Telephone": "34968195045",
+    "Address": "82 Avda. de la Union, San Javier, Murcia, 30730",
+    "Regions": "Costa Calida, Costa Blanca North, Costa Blanca South",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Health; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Jordi  Mauri Solé",
+    "Law firm": "Jms Lawyer",
+    "Telephone": "34966443446",
+    "Address": "43 Avenida Alegría, 2.3, La Marina, Alicante, 03194",
+    "Regions": "Murcia, Communidad Valenciana",
+    "Legal Practice Areas": "Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Jonathan Lambert",
+    "Law firm": "Jonathan Lambert Lawyers",
+    "Telephone": "34654685190",
+    "Address": "64-2B Calle Colon, Denia, 03700",
+    "Regions": "Murcia, Valencian Community",
+    "Legal Practice Areas": "Corporate; Family; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Sophie Mercier",
+    "Law firm": "LCS Valencia - Perez Domingo",
+    "Telephone": "34963446496",
+    "Address": "2 Calle Caulla, Buzon 52, Urb. Galera de las Palmeras, Altea, 03599",
+    "Regions": "Alicante, Valencia",
+    "Legal Practice Areas": "Corporate; Employment; International; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Ascension Gonzalez Berganza",
+    "Law firm": "Letralia Lawyers",
+    "Telephone": "34965719298",
+    "Address": "75 Calle Caballero de Rodas, 1º A, Torrevieja, 03181",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Criminal; Employment; Family; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Guillermo Hernández Calatayud",
+    "Law firm": "Lex Consilium Laywers & Tax Advisers",
+    "Telephone": "34962838902",
+    "Address": "2 Calle Juan Bautista Anyes, Mezzanine, Oliva, Valencia, 46780",
+    "Regions": "Valencian Community",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Immigration; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Miriam Arlandis Rosello",
+    "Law firm": "Luis Bajo Fernandez Abogados",
+    "Telephone": "34965853877",
+    "Address": "Edificio Astoria A 4º -10, 3 Calle Dr. Perez Llorca, Benidorm, Alicante, 03503",
+    "Regions": "Albacete, Alicante, Murcia, Valencia",
+    "Legal Practice Areas": "Criminal; Family; International; Personal injury; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "José María Martínez-Abarca",
+    "Law firm": "MAM Solicitors (Martínes-Abarca & Muñoz)",
+    "Telephone": "34968334439",
+    "Address": "1 Calle Monasterio de venta de baños, Murcia, San Javier, 30730",
+    "Regions": "Alicante, Almería, Murcia, Valencia",
+    "Legal Practice Areas": "Criminal; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Margarita Manresa Clemente",
+    "Law firm": "Margarita Manresa Clemente",
+    "Telephone": "34966923054",
+    "Address": "21 Calle Virgen del Carmen, 1ºD, La Mata, Torrevieja, 03188",
+    "Regions": "Alicante",
+    "Legal Practice Areas": "Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Maria  Solana Segui",
+    "Law firm": "Maria Solana 360º Lawyers",
+    "Telephone": "34649559022",
+    "Address": "Edificio Marán, Oficina 7, 12 Calle Tridente, Alicante, 04540",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Montse Gomez Ferreres",
+    "Law firm": "MB Gomez Lawyers",
+    "Telephone": "34649818363",
+    "Address": "2 Calle Poeta Cano Pato, 7ºB, Murcia, 30009",
+    "Regions": "Alicante, Almeria, Murcia",
+    "Legal Practice Areas": "Corporate; Family; International; Personal injury; Real estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Manuel Martin",
+    "Law firm": "MB Martin",
+    "Telephone": "34965161606",
+    "Address": "22 Calle Castaños, 5b, Alicante, 03001",
+    "Regions": "Alicante",
+    "Legal Practice Areas": "Criminal; International; Real estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Mercedes Cuevas Martínez",
+    "Law firm": "Mercedes Cuevas Abogados-Lawyers-Rechtsanwälte",
+    "Telephone": "34966433235",
+    "Address": "61 Patricio Ferrándiz (First floor, second door), Denia, 03700",
+    "Regions": "Alicante,Valencia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; International; Personal injury; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Miguel Ángel Colombo",
+    "Law firm": "Miguel Ángel Colombo",
+    "Telephone": "34965729853",
+    "Address": "15 Calle Mayor, 3ºA, Guardamar del Segura, Alicante, 03140",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Corporate; Family; Intellectual property; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Pedro Manuel Molina López",
+    "Law firm": "Molina Solicitors",
+    "Telephone": "34965319905",
+    "Address": "10 Avda. Escorpiones, Resid. La Ciñuelica, R3, No5, Punta Prima, Alicante, 03189",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Moncia Sanchis Gonzalez",
+    "Law firm": "MSG LEGAL",
+    "Telephone": "34965130341",
+    "Address": "31 Calle Reyes Catolicos, Alicante, 03003",
+    "Regions": "Alicante, Murcia, Valencia",
+    "Legal Practice Areas": "Family; Immigration; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "María Dolores Hernández Ruiz",
+    "Law firm": "NH Abogados",
+    "Telephone": "34966783167",
+    "Address": "4 Calle Practicante Alberto Berenguer, ground floor, Algorfa, 03169",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Criminal; Family; Health; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Ignacio Pellicer Mollá",
+    "Law firm": "Pellicer & Heredia, C.B.",
+    "Telephone": "34965480737",
+    "Address": "46 Calle San Fernando 46, 1º izqda, Alicante, 03001",
+    "Regions": "Alicante, Almería, Valencia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Salud Andreo Navarro",
+    "Law firm": "Reuters Solicitors",
+    "Telephone": "34686602953",
+    "Address": "8 Calle Haiti, 1 A, Elda, Alicante, 03600",
+    "Regions": "Alicante",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Alessandro Scarante",
+    "Law firm": "Scarante & Partners Law Firm",
+    "Telephone": "34648484389",
+    "Address": "7 Plaza Ramon Ibars, Mislata, Valencia, 46920",
+    "Regions": "Balearic Islands (Mallorca & Ibiza), Valencia Region",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Health; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "José Sempere",
+    "Law firm": "Sempere-Gelardo Abogados",
+    "Telephone": "34626947014",
+    "Address": "31 Avenida Salamanca, Alicante, 03005",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Personal injury; Real estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Silvia Galve Marti",
+    "Law firm": "SGM Abogados",
+    "Telephone": "34965724871",
+    "Address": "34 Avenida Federico Garcia Lorca, Benijofar, 03178",
+    "Regions": "Coastal areas",
+    "Legal Practice Areas": "Employment; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Martin James  Hayes",
+    "Law firm": "SWAN Partners",
+    "Telephone": "34963348983",
+    "Address": "1 Calle Pizarro, PTA 15,  Valencia, 46004",
+    "Regions": "Alicante, Castellon, Valencia",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Andrea San Román",
+    "Law firm": "Valero San Román SLP",
+    "Telephone": "34965985451",
+    "Address": "38 Calle Suero de Quiñones, 2º izquierda, 28002 Madrid",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Salvador Vives Pons",
+    "Law firm": "Vives Pons & Asociados, S.L.P.",
+    "Telephone": "34966432624",
+    "Address": "9 bajos Calle Pare Pere, Dénia, Alicante, 03700",
+    "Regions": "All regions",
+    "Legal Practice Areas": "Corporate; Employment; Family; Immigration; Real estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Carlos Baos Torregrosa",
+    "Law firm": "White Baos Legal S.L.",
+    "Telephone": "34966426185",
+    "Address": "19 Calle Diana, 2º D, Denia, 03700",
+    "Regions": "All Regions",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Family; Personal injury; Real estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  }
+]

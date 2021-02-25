@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "Santiago Lleó",
+    "Law firm": "All Law Lanzarote",
+    "Telephone": "+34 928826691",
+    "Address": "Avda. Islas Canarias, C.C. Maretas local 32A, 35508 Costa Teguise, Lanzarote",
+    "Regions Served": "Spain",
+    "Legal Practice Areas": "Bankruptcy; Corporate; International; Real Estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Beatriz Alvarez Martinez",
+    "Law firm": "Beatriz Alvarez Martinez",
+    "Telephone": "+34928530992",
+    "Address": "Calle Duero, 9, oficina 8, 35600 Puerto del Rosario, Fuerteventura",
+    "Regions Served": "Fuerteventura",
+    "Legal Practice Areas": "Family; Real Estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Carlos Bethancourt",
+    "Law firm": "BG Abogados & Consultores",
+    "Telephone": "+34928383412",
+    "Address": "Avda. de España 7,  C.C. Prisma, Local 20, 35100 Playa del Inglés, Gran Canaria",
+    "Regions Served": "Canary Islands; Madrid",
+    "Legal Practice Areas": "Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual Property; International; Personal Injury; Real Estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Elena Bravo de Laguna",
+    "Law firm": "Bravo de Laguna & Rodriguez",
+    "Telephone": "+34928383836",
+    "Address": "Calle Buenos Aires nº 8, 2ºC, 35002 Las Palmas de Gran Canaria",
+    "Regions Served": "Canary Islands",
+    "Legal Practice Areas": "Corporate; Criminal; Family; Intellectual Property; Real Estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Jorge Luis del Toro Vega",
+    "Law firm": "Del Toro Abogados S.L.",
+    "Telephone": "+34 928493801",
+    "Address": "C/Luis Morote 6, piso 3, oficina 1, Las Palmas de Gran Canaria; Avda de Canarias 85, 1ªA, Vecindario, 35110 Santa Lucia",
+    "Regions Served": "Spain",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual Property; International; Maritime; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": ""
+  },
+  {
+    "Name": "Erardo Ferrar Quintana",
+    "Law firm": "Erardo Ferrer Quintana Abogado",
+    "Telephone": "+34928816513",
+    "Address": "Calle Senador Rafael stinga González nº 2 oficina 2 Arrecife de Lanzarote",
+    "Regions Served": "Lanzarote",
+    "Legal Practice Areas": "Criminal; Family; Intellectual Property; Real Estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Cristina Gallego Betancor",
+    "Law firm": "Gamma Abogados, Lanzarote y Fuerteventura",
+    "Telephone": "+34 638257298",
+    "Address": "C/ Las Maretas 4, 35580, Playa Blanca, Yaiza",
+    "Regions Served": "Lanzarote and Fuerteventura",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual Property; International; Maritime; Personal Injury; Real Estate; Tax;",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "César Ignacio Gonzalez Zarza",
+    "Law firm": "Glex Lawyers SL",
+    "Telephone": "+34 928532088",
+    "Address": "C/Secundino Alonso, 39.1º 4ª, 35600 Puerto del Rosario, Fuerteventura",
+    "Regions Served": "Spain",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Intellectual Property; International; Real Estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Eileen Izquierdo Lawlor",
+    "Law firm": "Izquierdo y De la Cueva SCP",
+    "Telephone": "+34 928815262",
+    "Address": "C/Gines de Castro y Alvarez 12 3º-B, 35500 Arrecife de Lanzarote",
+    "Regions Served": "Canary Islands",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Intellectual Property; International; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Mario  Izquierdo Lawlor",
+    "Law firm": "Izquierdo y De la Cueva SCP",
+    "Telephone": "+34 928815262",
+    "Address": "C/Gines de Castro y Alvarez 12 3º-B, 35500 Arrecife de Lanzarote",
+    "Regions Served": "Canary Islands",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Intellectual Property; International; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Jorge Manuel de la Cueva Terrer",
+    "Law firm": "Izquierdo y De la Cueva SCP",
+    "Telephone": "+34 928815262",
+    "Address": "C/Gines de Castro y Alvarez 12 3º-B, 35500 Arrecife de Lanzarote",
+    "Regions Served": "Canary Islands",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Intellectual Property; International; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Ricardo Lagares",
+    "Law firm": "Lagares Abogados",
+    "Telephone": "+34 928382148",
+    "Address": "C/ Canalejas  29, 35003 Las Palmas de Gran Canaria",
+    "Regions Served": "Canary Islands, Spain",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Criminal; Family; Health; Immigration; Intellectual Property; International; Maritime; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Nayra Roda",
+    "Law firm": "Lexalia Abogados S.L.",
+    "Telephone": "+34 928391616",
+    "Address": "C/Triana 22, 2º, 35002 Las Palmas de Gran Canaria",
+    "Regions Served": "Las Palmas de Gran Canaria",
+    "Legal Practice Areas": "Bankruptcy; Corporate; Employment; International; Maritime; Real Estate; Tax",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Ana Maria Montelongo Melian",
+    "Law firm": "Montelongo Asesores",
+    "Telephone": "+34928385252;",
+    "Address": "Calle Canalejas 90-92, 35003, Las Palmas de Gran Canaria",
+    "Regions Served": "Gran Canaria, Tenerife, Fuerteventura, Lanzarote",
+    "Legal Practice Areas": "Corporate; Criminal; Employment; Family; Health; Immigration; International Property; International; Personal Injury; Real Estate; Tax",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Ana Maria Quintana",
+    "Law firm": "Quintana & Espiau SCP",
+    "Telephone": "+34 928276995",
+    "Address": "Calle Los Martínez de Escobar, 3 Oficina 7  35007 Las Palmas de Gran Canaria",
+    "Regions Served": "Las Palmas de Gran Canaria",
+    "Legal Practice Areas": "Real Estate",
+    "Legal Aid": "",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "James Martin Sonny Lee Gwynne",
+    "Law firm": "RM Legal Abogados",
+    "Telephone": "+34 928349761",
+    "Address": "Calle La Lapa 27, 35580 Playa Blanca-Yaiza, Lanzarote",
+    "Regions Served": "Lanzarote",
+    "Legal Practice Areas": "Family; Real Estate",
+    "Legal Aid": "No",
+    "Pro Bono Service": "No"
+  },
+  {
+    "Name": "Eusebio Francisco Bolaños Ferreira",
+    "Law firm": "EBF Attorney",
+    "Telephone": "+34650295436",
+    "Address": "Calle Venegas nº49, 2ºA Las Palmas de Gran Canaria",
+    "Regions Served": "Spain",
+    "Legal Practice Areas": "Criminal; Employment; Family; Health; Immigration; Personal Injury; Real Estate",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "Yes"
+  },
+  {
+    "Name": "Raquel Fuertes Muñoz",
+    "Law firm": "",
+    "Telephone": "+34 619048651",
+    "Address": "Calle Thomas Edison 15, Azaleas Plus 1, 35100 Sonnenland- Maspalomas, Gran Canaria",
+    "Regions Served": "Las Palmas de Gran Canaria",
+    "Legal Practice Areas": "Maritime",
+    "Legal Aid": "Yes",
+    "Pro Bono Service": "No"
+  }
+]
