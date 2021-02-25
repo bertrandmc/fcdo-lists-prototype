@@ -5,11 +5,11 @@
 {% endblock %}
 
 {% block beforeContent %}
+  {% include "includes/phase-banner.html" %}
   <a id="back-button" class="govuk-back-link" href="#">Back</a>
 {% endblock %}
 
 {% block content %}
-
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-two-thirds">
       <form class="form" action="{{ nextRoute }}" method="post">
@@ -28,8 +28,6 @@
         </div>
         <button class="govuk-button" data-module="govuk-button">Continue</button>
       </form>
-
     </div>
   </div>
-
 {% endblock %}
