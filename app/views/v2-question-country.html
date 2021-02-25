@@ -19,7 +19,7 @@
               Country?
             </label>
           </h1>
-          <select class="govuk-select" id="country" name="country">
+          <select class="govuk-select" id="country" name="country" required>
             <option value=""></option>
             {% for country in countriesList %}
               <option value="{{ country.value.toLowerCase() }}">{{ country.text }}</option>

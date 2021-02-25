@@ -12,7 +12,7 @@
 
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-two-thirds">
-      <form class="form" action="{{ nextRoute }}" method="post">
+      <form class="form" action="{{ nextRoute }}" method="post" required>
         <div class="govuk-form-group">
           <fieldset class="govuk-fieldset" aria-describedby="practice-area-hint">
             <h1 class="govuk-label-wrapper">
@@ -23,7 +23,7 @@
             <div id="practice-area-hint" class="govuk-hint">
               Select all that apply.
             </div>
-            <div class="govuk-checkboxes">
+            <div class="govuk-checkboxes govuk-checkboxes--small">
               {% for practiceArea in practiceAreasList %}
                 <div class="govuk-checkboxes__item">
                   <input class="govuk-checkboxes__input" name="practiceArea" type="checkbox" value="{{ practiceArea.toLowerCase() }}">
