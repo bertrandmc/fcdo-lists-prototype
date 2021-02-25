@@ -9,6 +9,6 @@ $(document).ready(function () {
   window.GOVUKFrontend.initAll()
 
   $('#back-button').click(function () {
-    history.back()
+    window.history.back()
   })
 })
