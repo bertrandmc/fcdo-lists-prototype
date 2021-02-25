@@ -8,7 +8,7 @@ if (window.console && window.console.info) {
 $(document).ready(function () {
   window.GOVUKFrontend.initAll()
 
-  $("#back-button").click(function () {
-    history.back();
-  });
+  $('#back-button').click(function () {
+    history.back()
+  })
 })

@@ -78,7 +78,7 @@ function runGulp () {
   })
 }
 
-process.on("SIGINT", () => {
-  console.log("Bye bye!");
-  process.exit();
-});
+process.on('SIGINT', () => {
+  console.log('Bye bye!')
+  process.exit()
+})

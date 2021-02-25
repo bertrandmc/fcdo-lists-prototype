@@ -10,6 +10,7 @@
     "start": "node start.js",
     "dev": "nodemon start.js",
     "lint": "standard",
+    "lint:fix": "standard --fix",
     "test": "npm run lint && gulp generate-assets && jest",
     "kill": "kill $(lsof -t -i:3000) | exit 0"
   },
