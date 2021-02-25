@@ -39,7 +39,7 @@
           </li>
           {% if isSearchingForLawyers %}
             <li>
-              Practice areas are <strong>{{ practiceArea }}</strong>.
+              Practice areas are <strong>{{ practiceArea.split(",").join(", ")  }}</strong>.
             </li>
             <li>
               Need legal aid <strong>{{ legalAid }}</strong>.
@@ -59,7 +59,7 @@
             {% for key, value in listItem %}
               {% if key === "Name" %}
                 <h2 class="govuk-heading-s govuk-!-margin-bottom-4">
-                  {{value}}
+                  <a href="#" class="govuk-link">{{value}}</a>
                 </h2>
               {% else %}
                 <p class="govuk-body govuk-!-font-size-16 govuk-!-margin-bottom-1">
