@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+  Select service type
+{% endblock %}
+
+{% block beforeContent %}
+  {% include "includes/phase-banner.html" %}
+  <a class="govuk-back-link" href="/service-finder-v2">Back</a>
+{% endblock %}
+
+{% block content %}
+  {% include "question-service-type.html" %}
+{% endblock %}
