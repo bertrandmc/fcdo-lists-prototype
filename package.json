@@ -80,6 +80,6 @@
     }
   },
   "lint-staged": {
-    "*.{js,css,md}": "prettier --write"
+    "*.{js,css,md}": "prettier --write --config ./.prettierrc"
   }
 }
