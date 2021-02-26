@@ -1,5 +1,5 @@
-const querystring = require('querystring');
-const express = require('express');
+const querystring = require('querystring')
+const express = require('express')
 const router = express.Router()
 const _ = require('lodash')
 const { countriesList, practiceAreasList } = require('./data/metadata')
