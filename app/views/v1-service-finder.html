@@ -19,7 +19,7 @@
       {% if questionToRender %} 
         {% include questionToRender %}
       {% endif %}
-      {% if searchResults["length"] > 0 %} 
+      {% if not questionToRender %} 
         {% include "results-list.html" %}
       {% endif %}
     </div>

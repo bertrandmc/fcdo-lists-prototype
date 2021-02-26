@@ -114,6 +114,7 @@ function v1RouteHandler(req, res) {
     ...DEFAULT_VIEW_PROPS,
     responses: { ...req.query },
     serviceLabel: getServiceLabel(serviceType),
+    baseRoute: v1Route,
   };
 
   if (!find) {
@@ -205,6 +206,7 @@ function v2RouteHandler(req, res) {
     ...DEFAULT_VIEW_PROPS,
     ...params,
     serviceLabel: getServiceLabel(serviceType),
+    baseRoute: v2Route,
   };
 
   const queryString = queryStringFromParams(params);
