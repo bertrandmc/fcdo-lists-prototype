@@ -39,14 +39,11 @@
     "gulp-sourcemaps": "^2.6.0",
     "helmet": "^4.4.1",
     "html-table-to-json": "^1.0.0",
-    "husky": "^5.1.1",
     "inquirer": "^7.1.0",
     "keypather": "^3.0.0",
-    "lint-staged": "^10.5.4",
     "lodash": "^4.17.21",
     "lokijs": "^1.5.11",
     "marked": "^1.2.0",
-    "nodemon": "^2.0.7",
     "notifications-node-client": "^4.7.2",
     "nunjucks": "^3.2.1",
     "portscanner": "^2.1.1",
@@ -61,8 +58,11 @@
     ]
   },
   "devDependencies": {
+    "lint-staged": "^10.5.4",
     "glob": "^7.1.4",
+    "husky": "^5.1.1",
     "jest": "^25.2.7",
+    "nodemon": "^2.0.7",
     "node-sass": "^4.14.1",
     "standard": "^14.3.3",
     "supertest": "^4.0.2"
