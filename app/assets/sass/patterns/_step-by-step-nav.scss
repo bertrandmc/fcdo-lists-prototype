@@ -7,13 +7,14 @@ $number-circle-size: 26px;
 $number-circle-size-large: 35px;
 $top-border: solid 2px govuk-colour("mid-grey", $legacy: "grey-3");
 
-@mixin step-nav-vertical-line ($line-style: solid) {
+@mixin step-nav-vertical-line($line-style: solid) {
   content: "";
   position: absolute;
   z-index: 2;
   width: 0;
   height: 100%;
-  border-left: $line-style $stroke-width govuk-colour("mid-grey", $legacy: "grey-2");
+  border-left: $line-style $stroke-width
+    govuk-colour("mid-grey", $legacy: "grey-2");
   background: govuk-colour("white");
 }
 
@@ -31,7 +32,13 @@ $top-border: solid 2px govuk-colour("mid-grey", $legacy: "grey-3");
 // custom mixin as govuk-font does undesirable things at different breakpoints
 // we want to ensure that both large and small step navs have the same size font on mobile
 // this will stop text resizing if compatibility mode is turned off
-@mixin step-nav-font($size, $tablet-size: $size, $weight: normal, $line-height: 1.3, $tablet-line-height: $line-height) {
+@mixin step-nav-font(
+  $size,
+  $tablet-size: $size,
+  $weight: normal,
+  $line-height: 1.3,
+  $tablet-line-height: $line-height
+) {
   @include govuk-typography-common();
   font-size: $size + px;
   font-weight: $weight;
@@ -88,7 +95,12 @@ $top-border: solid 2px govuk-colour("mid-grey", $legacy: "grey-3");
   color: govuk-colour("black");
 
   .app-step-nav--large & {
-    @include step-nav-font(19, $tablet-size: 24, $weight: bold, $line-height: 1.4);
+    @include step-nav-font(
+      19,
+      $tablet-size: 24,
+      $weight: bold,
+      $line-height: 1.4
+    );
   }
 }
 
@@ -96,7 +108,7 @@ $top-border: solid 2px govuk-colour("mid-grey", $legacy: "grey-3");
   @include step-nav-font(14, $line-height: 1);
   position: relative;
   z-index: 1; // this and relative position stops focus outline underlap with border of accordion
-  padding: .5em 0;
+  padding: 0.5em 0;
   text-decoration: underline;
 
   .app-step-nav--large & {
@@ -144,7 +156,8 @@ $top-border: solid 2px govuk-colour("mid-grey", $legacy: "grey-3");
     margin-left: $number-circle-size / 4;
     width: $number-circle-size / 2;
     height: 0;
-    border-bottom: solid $stroke-width govuk-colour("mid-grey", $legacy: "grey-2");
+    border-bottom: solid $stroke-width
+      govuk-colour("mid-grey", $legacy: "grey-2");
   }
 
   &:after {
@@ -211,7 +224,13 @@ $top-border: solid 2px govuk-colour("mid-grey", $legacy: "grey-3");
   border: solid $stroke-width govuk-colour("mid-grey", $legacy: "grey-2");
 
   .app-step-nav--large & {
-    @include step-nav-font(16, $tablet-size: 19, $weight: bold, $line-height: 23px, $tablet-line-height: 30px);
+    @include step-nav-font(
+      16,
+      $tablet-size: 19,
+      $weight: bold,
+      $line-height: 23px,
+      $tablet-line-height: 30px
+    );
 
     @include govuk-media-query($from: tablet) {
       border-width: $stroke-width-large;
@@ -223,7 +242,13 @@ $top-border: solid 2px govuk-colour("mid-grey", $legacy: "grey-3");
   @include step-nav-font(16, $weight: bold, $line-height: 28px);
 
   .app-step-nav--large & {
-    @include step-nav-font(16, $tablet-size: 19, $weight: bold, $line-height: 28px, $tablet-line-height: 34px);
+    @include step-nav-font(
+      16,
+      $tablet-size: 19,
+      $weight: bold,
+      $line-height: 28px,
+      $tablet-line-height: 34px
+    );
   }
 }
 
@@ -234,11 +259,13 @@ $top-border: solid 2px govuk-colour("mid-grey", $legacy: "grey-3");
 }
 
 .app-step-nav__circle-background {
-  $shadow-offset: .1em;
+  $shadow-offset: 0.1em;
   $shadow-colour: govuk-colour("white");
 
   // to make numbers readable for users zooming text only in browsers such as Firefox
-  text-shadow: 0 -#{$shadow-offset} 0 $shadow-colour, $shadow-offset 0 0 $shadow-colour, 0 $shadow-offset 0 $shadow-colour, -#{$shadow-offset} 0 0 $shadow-colour;
+  text-shadow: 0 -#{$shadow-offset} 0 $shadow-colour,
+    $shadow-offset 0 0 $shadow-colour, 0 $shadow-offset 0 $shadow-colour,
+    -#{$shadow-offset} 0 0 $shadow-colour;
 }
 
 .app-step-nav__circle-step-label,
@@ -288,7 +315,12 @@ $top-border: solid 2px govuk-colour("mid-grey", $legacy: "grey-3");
   margin: 0;
 
   .app-step-nav--large & {
-    @include step-nav-font(19, $tablet-size: 24, $weight: bold, $line-height: 1.4);
+    @include step-nav-font(
+      19,
+      $tablet-size: 24,
+      $weight: bold,
+      $line-height: 1.4
+    );
   }
 }
 
@@ -392,7 +424,7 @@ $top-border: solid 2px govuk-colour("mid-grey", $legacy: "grey-3");
     content: "";
     position: absolute;
     z-index: 5;
-    top: .6em; // position the dot to align with the first row of text in the link
+    top: 0.6em; // position the dot to align with the first row of text in the link
     left: -(govuk-spacing(6) + govuk-spacing(3));
     margin-top: -($stroke-width / 2);
     margin-left: ($number-circle-size / 2);

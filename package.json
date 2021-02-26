@@ -10,7 +10,7 @@
     "start": "node start.js",
     "dev": "nodemon start.js",
     "lint": "prettier --check app/",
-    "lint:fix": "eslint --fix",
+    "lint:fix": "prettier --write app/",
     "test": "npm run lint && gulp generate-assets && jest",
     "kill": "kill $(lsof -t -i:3000) | exit 0"
   },
