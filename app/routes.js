@@ -83,17 +83,29 @@ function practiceAreaFromParams(params) {
   return params.practiceArea;
 }
 
+function getServiceLabel(serviceType) {
+  return serviceType === "lawyers" ? "a lawyer" : "medical assistance";
+}
+
 const v1Route = "/service-finder-v1/:find?";
 function v1RouteHandler(req, res) {
-  const { find } = req.params;
-
   const params = {
     ...req.query,
     ...req.body,
+    ...req.params,
   };
 
-  const { serviceType, country, practiceArea, legalAid } = params;
+  const { serviceType, country, legalAid, readNotice, find } = params;
+
   const region = regionFromParams(params);
+  const practiceArea = practiceAreaFromParams(params);
+  if (region) {
+    params.region = region;
+  }
+  if (practiceArea) {
+    params.practiceArea = practiceArea;
+  }
+
   const queryString = queryStringFromParams(params);
   const isSearchingForLawyers = serviceType === "lawyers";
 
@@ -101,6 +113,7 @@ function v1RouteHandler(req, res) {
     ...params,
     ...DEFAULT_VIEW_PROPS,
     responses: { ...req.query },
+    serviceLabel: getServiceLabel(serviceType),
   };
 
   if (!find) {
@@ -116,6 +129,12 @@ function v1RouteHandler(req, res) {
 
   if (!serviceType) {
     questionToRender = "question-service-type.html";
+  } else if (!readNotice) {
+    if (isSearchingForLawyers) {
+      questionToRender = "notice-lawyer.html";
+    } else {
+      questionToRender = "notice-medical-facilities.html";
+    }
   } else if (!country) {
     questionToRender = "question-country.html";
   } else if (!region) {
@@ -185,10 +204,13 @@ function v2RouteHandler(req, res) {
   const viewProps = {
     ...DEFAULT_VIEW_PROPS,
     ...params,
+    serviceLabel: getServiceLabel(serviceType),
   };
 
   const queryString = queryStringFromParams(params);
   const nextRoute = `/service-finder-v2/find?${queryString}`;
+
+  console.log(viewProps);
 
   if (req.method === "POST") {
     return res.redirect(nextRoute);

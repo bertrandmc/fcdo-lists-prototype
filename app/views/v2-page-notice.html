@@ -6,9 +6,19 @@
 
 {% block beforeContent %}
   {% include "includes/phase-banner.html" %}
-  <a class="govuk-back-link" href="/service-finder-v2">Back</a>
+  <a id="back-button" class="govuk-back-link" href="#">Back</a>
 {% endblock %}
 
 {% block content %}
-  {% include "notice-lawyer.html" %}
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      {% if serviceType === "lawyers" %}
+        {% include "notice-lawyer.html" %}
+      {% endif %}
+      
+      {% if serviceType === "medical-facilities" %}
+        {% include "notice-medical-facilities.html" %}
+      {% endif %}
+    </div>
+  </div>
 {% endblock %}
