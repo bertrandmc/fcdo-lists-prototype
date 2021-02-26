@@ -9,8 +9,8 @@
   "scripts": {
     "start": "node start.js",
     "dev": "nodemon start.js",
-    "lint": "standard",
-    "lint:fix": "standard --fix",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix",
     "test": "npm run lint && gulp generate-assets && jest",
     "kill": "kill $(lsof -t -i:3000) | exit 0"
   },
@@ -25,6 +25,7 @@
     "cross-spawn": "^7.0.2",
     "del": "^5.1.0",
     "dotenv": "^8.2.0",
+    "eslint-config-standard": "^16.0.2",
     "express": "^4.17.1",
     "express-session": "^1.13.0",
     "express-writer": "0.0.4",
@@ -58,13 +59,16 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
     "glob": "^7.1.4",
-    "husky": "^5.1.1",
+    "husky": "^4.3.8",
     "jest": "^25.2.7",
     "lint-staged": "^10.5.4",
     "node-sass": "^4.14.1",
     "nodemon": "^2.0.7",
-    "standard": "^14.3.3",
+    "prettier": "2.2.1",
     "supertest": "^4.0.2"
   },
   "nodemonConfig": {
@@ -79,6 +83,6 @@
     }
   },
   "lint-staged": {
-    "**/*": "standard --fix"
+    "*.js": "eslint --cache --fix"
   }
 }
