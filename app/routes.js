@@ -2,11 +2,10 @@ const querystring = require('querystring');
 const express = require('express')
 const router = express.Router()
 const _ = require('lodash')
-const countriesList = require('./data/countries.json')
-const practiceAreasList = require('./data/practiceAreas.json')
-const thailandLawyers = require('./data/thailand-lawyers.json')
-const thailandMedicalFacilities = require('./data/thailand-medical-facilities.json')
-const spainLawyers = require('./data/spain')
+const { countriesList, practiceAreasList } = require('./data/metadata')
+const { thailandLawyers, thailandMedicalFacilities } = require('./data/thailand')
+const { spainLawyers } = require('./data/spain')
+const db = require('./data/database')
 
 const fakeDB = {
   thailand: {
@@ -86,7 +85,16 @@ function v1RouteHandler (req, res) {
   } else if (req.method === 'POST') {
     return res.redirect(`/service-finder-v1/find?${queryString}`)
   } else {
-    searchResults = fakeDB.query({ country, serviceType })
+    switch (serviceType) {
+      case 'lawyers':
+        searchResults = db.lawyersTable.find({ country })
+        break
+      case 'medical-facilities':
+        searchResults = db.medicalFacilitiesTable.find({ country })
+        break
+      default:
+        searchResults = []
+    }
   }
 
   return res.render('v1-service-finder', {

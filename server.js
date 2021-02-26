@@ -364,4 +364,9 @@ console.log(
   '\nNOTICE: the kit is for building prototypes, do not use it for production services.'
 )
 
+process.once('SIGUSR2', () => {
+  console.log('Killing process')
+  process.kill(process.pid, 'SIGUSR2')
+})
+
 module.exports = app

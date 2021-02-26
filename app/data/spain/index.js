@@ -7,7 +7,7 @@ const spainLawyers6 = require('./spain-lawyers-6.json')
 const spainLawyers7 = require('./spain-lawyers-7.json')
 const spainLawyers8 = require('./spain-lawyers-8.json')
 
-module.exports = [
+const spainLawyers = [
   ...spainLawyers1,
   ...spainLawyers2,
   ...spainLawyers3,
@@ -17,3 +17,7 @@ module.exports = [
   ...spainLawyers7,
   ...spainLawyers8
 ]
+
+module.exports = {
+  spainLawyers
+}
