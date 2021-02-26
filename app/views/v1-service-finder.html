@@ -28,6 +28,9 @@
         <div class="answers-box">
           <p class="govuk-body">Your answers:</p>
           {% if params["serviceType"] %}
+            <p class="govuk-body">Your answers will appear here</p>
+          {% endif %}
+          {% if params["serviceType"] %}
             <p class="govuk-body">
               What are you looking for?<br />
               <strong>{{ _.upperFirst(_.lowerCase(params["serviceType"])) }}</strong>
