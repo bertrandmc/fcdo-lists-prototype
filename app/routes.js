@@ -81,30 +81,6 @@ function practiceAreaFromParams(params) {
   }
 
   return params.practiceArea;
-
-  // let region = params.region;
-
-  // if (typeof region === "string") {
-  //   region = region.split(/,/);
-  // }
-
-  // if (region[0] === "unknown" && region[1]) {
-  //   // user is just posting region form, which includes hidden input with value unknown
-  //   console.log("Region1", region[1]);
-  //   return region[1];
-  // }
-
-  // if (region[0] === "unknown" && !region[1]) {
-  //   // user posted empty region
-  //   console.log("Region2", "unknown");
-  //   return "unknown";
-  // }
-
-  // if (region[0] !== "unknown") {
-  //   // region has already been defined
-  //   console.log("Region3", "already unknown");
-  //   return region[0];
-  // }
 }
 
 const v1Route = "/service-finder-v1/:find?";
@@ -118,10 +94,8 @@ function v1RouteHandler(req, res) {
 
   const { serviceType, country, practiceArea, legalAid } = params;
   const region = regionFromParams(params);
-
-  const isSearchingForLawyers = serviceType === "lawyers";
-
   const queryString = queryStringFromParams(params);
+  const isSearchingForLawyers = serviceType === "lawyers";
 
   const viewProps = {
     ...params,
