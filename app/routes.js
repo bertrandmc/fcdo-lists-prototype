@@ -1,7 +1,7 @@
 const querystring = require('querystring');
-const express = require('express');
+const express = require('express')
 const router = express.Router()
-const _ = require('lodash');
+const _ = require('lodash')
 const { countriesList, practiceAreasList } = require('./data/metadata')
 const { thailandLawyers, thailandMedicalFacilities } = require('./data/thailand')
 const { spainLawyers } = require('./data/spain')
