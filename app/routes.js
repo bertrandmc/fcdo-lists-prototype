@@ -153,11 +153,9 @@ function v1RouteHandler(req, res) {
   if (!serviceType) {
     questionToRender = "question-service-type.html";
   } else if (!readNotice) {
-    if (isSearchingForLawyers) {
-      questionToRender = "notice-lawyer.html";
-    } else {
-      questionToRender = "notice-medical-facilities.html";
-    }
+    questionToRender = isSearchingForLawyers
+      ? "notice-lawyer.html"
+      : "notice-medical-facilities.html";
   } else if (!country) {
     questionToRender = "question-country.html";
   } else if (!region) {
