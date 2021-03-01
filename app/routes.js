@@ -87,6 +87,29 @@ function getServiceLabel(serviceType) {
   return serviceType === "lawyers" ? "a lawyer" : "medical assistance";
 }
 
+function queryDb({ serviceType, country }) {
+  let searchResults;
+
+  switch (serviceType) {
+    case "lawyers":
+      searchResults = db.lawyersTable.find({ country });
+      break;
+    case "medical-facilities":
+      searchResults = db.medicalFacilitiesTable.find({ country });
+      break;
+    default:
+      searchResults = [];
+  }
+
+  return searchResults.map((data) => {
+    const item = { ...data };
+    delete item.meta;
+    delete item.$loki;
+    delete item.country;
+    return item;
+  });
+}
+
 const v1Route = "/service-finder-v1/:find?";
 function v1RouteHandler(req, res) {
   const params = {
@@ -126,7 +149,6 @@ function v1RouteHandler(req, res) {
   }
 
   let questionToRender;
-  let searchResults = [];
 
   if (!serviceType) {
     questionToRender = "question-service-type.html";
@@ -148,18 +170,9 @@ function v1RouteHandler(req, res) {
     questionToRender = "question-legal-aid.html";
   } else if (req.method === "POST") {
     return res.redirect(`/service-finder-v1/find?${queryString}`);
-  } else {
-    switch (serviceType) {
-      case "lawyers":
-        searchResults = db.lawyersTable.find({ country });
-        break;
-      case "medical-facilities":
-        searchResults = db.medicalFacilitiesTable.find({ country });
-        break;
-      default:
-        searchResults = [];
-    }
   }
+
+  let searchResults = queryDb({ serviceType, country });
 
   return res.render("v1-service-finder", {
     ...viewProps,
@@ -211,8 +224,6 @@ function v2RouteHandler(req, res) {
 
   const queryString = queryStringFromParams(params);
   const nextRoute = `/service-finder-v2/find?${queryString}`;
-
-  console.log(viewProps);
 
   if (req.method === "POST") {
     return res.redirect(nextRoute);
@@ -268,7 +279,7 @@ function v2RouteHandler(req, res) {
     });
   }
 
-  const searchResults = fakeDB.query({ country, serviceType });
+  const searchResults = queryDb({ serviceType, country });
 
   return res.render("v2-page-results-list", {
     ...viewProps,
