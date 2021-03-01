@@ -1,0 +1,452 @@
+[
+  {
+    "Name": "Valentin Braykov",
+    "Law firm": "Braykov’s Legal Office",
+    "Telephone": "+359(0)29430245",
+    "Address": "24, Stefan Karadzha st., fl. 1, ap. 3, Sofia 1000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Corporate; Criminal; Employment; Immigration; Intellectual property; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Desislava Argirova",
+    "Law firm": "desislavamp@gmail.com",
+    "Telephone": "+359(0)876699260",
+    "Address": "19 Chataldja Street, Varna",
+    "Regions served": "Varna",
+    "Legal practice areas": "Corporate; Criminal; Family; Health; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Nina Boteva",
+    "Law firm": "Nina Boteva Law Office",
+    "Telephone": "+359(0)29861938",
+    "Address": "2 Nikolay Pavlovich Street, floor 1, Sofia 1142",
+    "Regions served": "Bulgaria",
+    "Legal practice areas": "Corporate; Employment; Family; Intellectual property; International; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Bisera Chekeleva",
+    "Law firm": "TANCHEV & CHEKELEVA ATTORNEY AT LAW PARTNERSHIP",
+    "Telephone": "+359(0)887724675",
+    "Address": "34 Kniaz Dondukov Blvd., ent.V, fl.2, Sofia 1000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Phillip Chickov",
+    "Law firm": "Chickov & Ianakiev Law Firm",
+    "Telephone": "+359(0)878138000",
+    "Address": "2-4 Rilski ezera Str., 1st floor, Sofia 1407",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Boyana Chilikova",
+    "Law firm": "Chilikova Law Office",
+    "Telephone": "+359(0)888126255",
+    "Address": "5 Saedinenie Street, Burgas 8000",
+    "Regions served": "Administrative Law, Commercial Law, Corporate Law, Employment Law, Family Law Inheritance Law, Immigration Law, Intelectual Property Law, Obligatios and Contracts Law, Litigation, Property Law",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Richard Clegg",
+    "Law firm": "Wolf Theiss",
+    "Telephone": "+359(2)8613700",
+    "Address": "Expo 2000 Office Park, Phase IV, 55 Nikola Vaptsarov Blvd., Sofia - 1407",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Bozhidar Damyanov",
+    "Law firm": "Damyanov Law Firm",
+    "Telephone": "+359(0)32622161",
+    "Address": "63 Rayko Daskalov Street, Plovdiv, 4000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Dimitar Dimitrov",
+    "Law firm": "Legal Prime Care",
+    "Telephone": "+359(0)888403752",
+    "Address": "15 Vasil Levski Boulevard, fl.8, Veliko Tarnovo 5000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Family; Immigration; Intellectual property; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Georgi Dobrev",
+    "Law firm": "Georgi P. Dobrev Patent Law Office",
+    "Telephone": "+359(0)887479226",
+    "Address": "7 Saglasie Street, Plovdiv 4000",
+    "Regions served": "Plovdiv and Southern Bulgaria",
+    "Legal practice areas": "Corporate; Family; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Natasha Dobreva",
+    "Law firm": "Law Office “Dobreva&Bekirska”",
+    "Telephone": "+359(0)29812403",
+    "Address": "1 Vasil Levski Blvd, 1142 Sofia",
+    "Regions served": "All regions",
+    "Legal practice areas": "Criminal; International; Personal injury",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Ivaylo Donev",
+    "Law firm": "Lawyer’s office Ivaylo Donev",
+    "Telephone": "359(0)883447364",
+    "Address": "Lawyer’s office Ivaylo Donev, 29A Vasil Levski Street, Veliko Tarnovo 5000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Lina Georgieva",
+    "Law firm": "Pro assistance Ltd",
+    "Telephone": "+359(0)888122653",
+    "Address": "2 Knyaz Boris I , fl.1, office 6, Burgas 8000",
+    "Regions served": "all regions",
+    "Legal practice areas": "Corporate; Employment; Immigration; International; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Antoaneta Gineva",
+    "Law firm": "Antoaneta Gineva",
+    "Telephone": "+359(0)87455632",
+    "Address": "6 Kniaz Boris Street, entrance A, 2nd floor, office 9, Burgas 8000",
+    "Regions served": "Burgas Region",
+    "Legal practice areas": "Criminal; Employment; Family; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Milen Hristov",
+    "Law firm": "MH Legal",
+    "Telephone": "+359(0)52632420",
+    "Address": "24-26a Ohrid Str., floor 5, office 6, Varna 9000",
+    "Regions served": "Black Sea coast (Varna, Burgas), Noth East Bulgaria (Dobrich, Shumen, Targovishte) and Sofia region.",
+    "Legal practice areas": "Corporate; International; Maritime; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Peter Iliev",
+    "Law firm": "ILIEV & PARTNERS Law Firm",
+    "Telephone": "+359(0)28517227",
+    "Address": "132 Georgi Rakovski Street, Entrance A, Floor 1, Office 3, Sofia 1000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Intellectual property; International; Maritime; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Plamen Irinchev",
+    "Law firm": "Plamen irinchev",
+    "Telephone": "+359(0)889504720",
+    "Address": "34, P.Yavorov str.,Veliko Tarnovo, Bulgaria",
+    "Regions served": "Varna, Veliko Tarnovo, Sofia",
+    "Legal practice areas": "Corporate; Criminal; Family; Health; Immigration; International; Personal injury; Real estate",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Vladimir Ivanov",
+    "Law firm": "Borislavova & Ivanov Law Firm",
+    "Telephone": "+359(0)895443792",
+    "Address": "Borislavova & Ivanov Law Firm, 17A Vrabcha Street, Sofia 1000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Corporate; Criminal; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Vladimir Ivanov",
+    "Law firm": "Vip Consult",
+    "Telephone": "+359(0)887556632",
+    "Address": "27 Syborni boulevard ,Varna, 9000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Galina Ivanova",
+    "Law firm": "Bulgaria Legal Law Office",
+    "Telephone": "+359(0)886462040",
+    "Address": "46 Vasil Levski bul., Sofia 1142",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Family; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Neli Ivanova",
+    "Law firm": "Ivanova & Partners Law Firm",
+    "Telephone": "+359(0)894291796",
+    "Address": "10 Lukashov Street, Vratsa 3000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Health; Immigration; Intellectual property; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Ivaylo Kondev",
+    "Law firm": "Law House Kondevi",
+    "Telephone": "+359(0)56816747",
+    "Address": "Lazur living quarter, block 151, Burgas 8000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Corporate; Employment; Family; International; Maritime; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Dian  Kostadinov",
+    "Law firm": "Kostadinov, Georgiev & Partners",
+    "Telephone": "+359(0)32626377",
+    "Address": "2 Sofronii Vrachanski Str., Plovdiv 4000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Galina Kostova",
+    "Law firm": "Komitov & Tzekov - Law Partnership",
+    "Telephone": "+359(0)29865431",
+    "Address": "6 Solunska Street, Sofia 1000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Vasil Markov",
+    "Law firm": "Bulgarian Companies Ltd",
+    "Telephone": "+359(0)876874449",
+    "Address": "Sofia office: 4A, Saborna Str., fl. 1, office 1, Sofia 1000; Plovdiv office: 10 Stefan Verkovhich Street, fl. 1, Plovdiv 4000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Immigration; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Slavi Mikinski",
+    "Law firm": "Kreston BulMar",
+    "Telephone": "+359(0)878150000",
+    "Address": "172 Naicho Tsanov Str., Sofia 1309",
+    "Regions served": "All regions",
+    "Legal practice areas": "Corporate; Employment; Immigration; Intellectual property; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Maria Nikolova",
+    "Law firm": "Maria Nikolova",
+    "Telephone": "+359(0)876802664",
+    "Address": "11A Sveti Sedmochislenitsi Street, Sofia, 1421",
+    "Regions served": "Sofia, Rousse",
+    "Legal practice areas": "Criminal; Family",
+    "Legal aid": "No",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Yordan Panov",
+    "Law firm": "Panov & Partners",
+    "Telephone": "+359(0)887004788",
+    "Address": "38V Canko Cerkovski street, floor 2, Veliko Tarnovo 5000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Luben Perusanov",
+    "Law firm": "Perusanov, Panayotov & Partners Law Office",
+    "Telephone": "+359(0)29805814",
+    "Address": "52 Vitosha Blvd., Sofia 1463",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Borislav  Petkov",
+    "Law firm": "Borislav Petkov",
+    "Telephone": "",
+    "Address": "120 Knyaz Boris I Street, Sofia 1000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Corporate; Criminal; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Reneta Petkova",
+    "Law firm": "Deloitte Legal Law Firm",
+    "Telephone": "+359(0)28023300",
+    "Address": "Sofia Tower, 103 Al. Stambolijski Blvd., Sofia 1303",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Health; Immigration; Intellectual property; International; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Malena   Sheytanova",
+    "Law firm": "Sheytanova & Co Law Office",
+    "Telephone": "+359(0)885089800",
+    "Address": "163A G. S. Rakovski Street, floor 1, Sofia 1000",
+    "Regions served": "Sofia City, Bulgaria",
+    "Legal practice areas": "Corporate; Employment; Family; Immigration; Intellectual property; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Kamen Shoylev",
+    "Law firm": "New Balkans Law Office",
+    "Telephone": "+359(0)29506239",
+    "Address": "New Balkans Law Office, 19-B, Patriarh Evtimiy Blvd, floor 3, suite 3A Sofia, 1142",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Kostadin Sirleshtov",
+    "Law firm": "CMS Sofia",
+    "Telephone": "+359(0)292199110",
+    "Address": "14 Tsar Osvoboditel Blvd., floor 1 and 2, Sofia 1000",
+    "Regions served": "Bulgaria, Central and Eastern Europe and other regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Martin  Stanchev",
+    "Law firm": "Stanchevlaw",
+    "Telephone": "+359(0)898706769",
+    "Address": "14 Georgi Benkovski Street, floor 2, Sofia, 1000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Health; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Snejana Stefanova",
+    "Law firm": "Law firm “Stefanova and Tochkov”",
+    "Telephone": "+359(0)888648186",
+    "Address": "5 Georgi Petakov street, 2nd. floor, Plovdiv 4000",
+    "Regions served": "Plovdiv, Pazardjik, Haskovo, Veliko Tarnovo",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Tanya Stoynova",
+    "Law firm": "Tanya Stoynova",
+    "Telephone": "+359(0)888456678",
+    "Address": "10 Dobrudzha str., office 5, Haskovo 6300",
+    "Regions served": "Haskovo, Kurdzhali, Plovdiv, Stara Zagora",
+    "Legal practice areas": "Corporate; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Laura Thomas",
+    "Law firm": "LM LEGAL SERVICES",
+    "Telephone": "+359(0)29438258",
+    "Address": "6 Aksakov Street, Sofia 1000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Corporate; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Ventsislav Tochkov",
+    "Law firm": "Law Office of Ventsislav Tochkov",
+    "Telephone": "+359(0)898436598",
+    "Address": "38G Tsanko Tserkovski street, 4th. floor, Veliko Tarnovo 5000",
+    "Regions served": "Veliko Tarnovo, Gabrovo, Plovdiv, Ruse, Lovech",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Dilyana                         Ivelin Todorova-Gospodinova",
+    "Law firm": "ID Law Office",
+    "Telephone": "+359(0)899202676",
+    "Address": "19 27-th of July Str., fl. 2, ap. 4, Varna 9000",
+    "Regions served": "All Regions",
+    "Legal practice areas": "Corporate; Employment; Family; Immigration; International; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Tatyana  Toteva",
+    "Law firm": "Tatyana Mihaylova Toteva",
+    "Telephone": "+359(0)89997766",
+    "Address": "Burgas office:6 Yurij Venelin Str.,Burgas 8000; Sofia office: complex “Yavorov” block 49, floor 4, apt.38, Sofia",
+    "Regions served": "All regions",
+    "Legal practice areas": "Corporate; Criminal; Family; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Emil Trifonov",
+    "Law firm": "Trifonov Law Offices",
+    "Telephone": "+359(0)29506237",
+    "Address": "1 Tsar Asen Str., Sofia 1000",
+    "Regions served": "Burgas, Bansko, Plovdiv, Sofia, Stara Zagora",
+    "Legal practice areas": "Bankruptcy; Corporate; Family; Immigration; International; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Sabina Vankova",
+    "Law firm": "Vankova and Partners",
+    "Telephone": "+359(0)884894800",
+    "Address": "45 Tsar Ivan Asen Vtori Street, Sofia 1124",
+    "Regions served": "All regions",
+    "Legal practice areas": "Corporate; Employment; Family; International; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Vladimir  Vladimirov",
+    "Law firm": "Vladimirov Law Office",
+    "Telephone": "+359(0)28501601",
+    "Address": "225A Tsar Boris III blvd., office 13-14, Sofia 1618",
+    "Regions served": "All regions",
+    "Legal practice areas": "Corporate; Employment; Family; Immigration; Intellectual property; International; Maritime; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Vassil  Yakovchev",
+    "Law firm": "Home Point BG Ltd.",
+    "Telephone": "+359(0)888789366",
+    "Address": "3 Angel Kunchev Str., fl.3, office 2, Sofia 1000",
+    "Regions served": "All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Immigration; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes, we can also assist on a pro bono basis where significant human rights of British citizens have been infringed by Bulgarian authorities. It is decided case-by-case, as a lot of circumstances are being taken into consideration."
+  }
+]

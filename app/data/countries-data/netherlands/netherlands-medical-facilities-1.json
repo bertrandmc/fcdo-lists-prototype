@@ -1,0 +1,162 @@
+[
+  {
+    "Name of medical facility": "Amsterdam UMC, location AMC",
+    "Email": "patientenvoorlichting@amc.nl",
+    "Telephone": "0031 (0) 20 566 9111",
+    "Address": "Meibergdreef 9, 1105 AZ Amsterdam",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Amsterdam UMC, location Vumc",
+    "Email": "zorgsupport@vumc.nl",
+    "Telephone": "0031 (0) 20 444 4444",
+    "Address": "De Boelelaan 1117, 1081 HV Amsterdam",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Amsterdam, OLVG - Oost",
+    "Email": "informatie@olvg.nl",
+    "Telephone": "0031(0) 20 599 9111",
+    "Address": "Oosterpark 9, 1091 AC, Amsterdam",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Amsterdam, OLVG - West",
+    "Email": "info@olvg.nl",
+    "Telephone": "0031 (0) 20 510 8911",
+    "Address": "Jan Tooropstraat 164, 1061 AE Amsterdam",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Amsterdam, OLVG Spuistraat",
+    "Email": "spuistraat@olvg.nl",
+    "Telephone": "0031 (0)20 599 4100",
+    "Address": "Spuistraat 239a, 1012 VP Amsterdam",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Groningen, Universitair Medisch Centrum",
+    "Email": "patienteninformatie@umcg.nl",
+    "Telephone": "0031 (0)50 361 6161",
+    "Address": "Hanzeplein 1, 9713 GZ Groningen",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Leeuwarden, Medisch Centrum Leeuwarden",
+    "Email": "",
+    "Telephone": "0031 (0)58 286 6666",
+    "Address": "Henri Dunantweg 2, 8934 AD Leeuwarden",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Leids Universitair Medisch Centrum (LUMC)",
+    "Email": "",
+    "Telephone": "0031 (0)71 526 9111",
+    "Address": "Albinusdreef 2, 2333 ZA Leiden",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Maastricht, UMC",
+    "Email": "info.Patientenvoorlichting@mumc.nl",
+    "Telephone": "0031 (0)43 387 6543",
+    "Address": "P. Debyelaan 25, 6229 HX Maastricht",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Nijmegen, Radboud UMC",
+    "Email": "",
+    "Telephone": "0031 (0)24 361 1111",
+    "Address": "Geert Grooteplein Zuid 10, 6525 GA Nijmegen",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Rotterdam, Erasmus MC",
+    "Email": "",
+    "Telephone": "0031 (0)10 704 0704",
+    "Address": "Dr. Molewaterplein 40, 3015 GD Rotterdam",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "s-Hertogenbosch, Jeroen Bosch Ziekenhuis",
+    "Email": "",
+    "Telephone": "0031 (0)73 553 2000",
+    "Address": "Henri Dunantstraat 1, 5223 GZ ’s-Hertogenbosch",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "The Hague, Haaglanden Medisch Centrum -Bronovo",
+    "Email": "info@haaglandenmc.nl",
+    "Telephone": "0031 (0)88 979 7900",
+    "Address": "Bronovolaan 5, 2597 AX Den Haag",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "The Hague, Haaglanden Medisch Centrum -Bronovo",
+    "Email": "info@haaglandenmc.nl",
+    "Telephone": "0031 (0)88 979 7900",
+    "Address": "Lijnbaan 32, 2512 VA Den Haag",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Utrecht, UMC",
+    "Email": "info@umcutrecht.nl",
+    "Telephone": "0031 (0)88 755 5555",
+    "Address": "Heidelberglaan 100, 3584 CX Utrecht",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  },
+  {
+    "Name of medical facility": "Zwolle, Isala Ziekenhuis",
+    "Email": "",
+    "Telephone": "0031 (0)38 424 5000",
+    "Address": "Dokter van Heesweg 2, 8025 AB Zwolle",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accreditation": "0"
+  }
+]

@@ -3,38 +3,13 @@ const express = require("express");
 const router = express.Router();
 const _ = require("lodash");
 const { countriesList, practiceAreasList } = require("./data/metadata");
-const {
-  thailandLawyers,
-  thailandMedicalFacilities,
-} = require("./data/thailand");
-const { spainLawyers } = require("./data/spain");
 const db = require("./data/database");
-
-const fakeDB = {
-  thailand: {
-    lawyers: thailandLawyers,
-    "medical-facilities": thailandMedicalFacilities,
-  },
-  spain: {
-    lawyers: spainLawyers,
-  },
-  query: function (params) {
-    const { country, serviceType } = params;
-    return _.get(
-      this,
-      `${country.toLowerCase()}.${serviceType.toLowerCase()}`,
-      []
-    );
-  },
-};
 
 const DEFAULT_VIEW_PROPS = {
   _,
   serviceName: "Service finder",
   countriesList,
   practiceAreasList,
-  thailandLawyers,
-  thailandMedicalFacilities,
 };
 
 function queryStringFromParams(params) {

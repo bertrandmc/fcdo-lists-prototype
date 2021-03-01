@@ -1,0 +1,542 @@
+[
+  {
+    "Name": "Catherine Arkouli",
+    "Law firm": "Catherine M. Arkouli Law Office",
+    "Telephone": "0030 210 324 0244 or  0030 6974 377 135",
+    "Address": "11 Sina Street, 106 80 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Family; Intellectual property; Maritime; Personal injury; Real estate",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Elena  Chryssanthacopoulou",
+    "Law firm": "Elena Chryssanthacopoulou Law Office",
+    "Telephone": "0030 6948 078 986",
+    "Address": "35-41 Tandalidou Street, 111 41 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Marcel Cremer",
+    "Law firm": "Cremer & Partners",
+    "Telephone": "0030 210 823 2157",
+    "Address": "1 Valaoritou Street, 106 71 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Miltiadis (Miltos) Economou",
+    "Law firm": "Economou & Economou Law Office",
+    "Telephone": "0030 6972 480 365 or 0030 210 360 3824",
+    "Address": "26 Asklipiou & Didotou Streets, 106 79 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Criminal; Employment; Family; Intellectual property; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Nataly Galeadi",
+    "Law firm": "N. Galeadi - A. Herodotou Law Firm",
+    "Telephone": "0030 210 361 2309 or 0030 6944 227 752",
+    "Address": "5 Leventi Street, 106 73 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Immigration; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Pericles Giannopoulos",
+    "Law firm": "G. Giannopoulos & Associattes Law Office",
+    "Telephone": "0030 210 729 3869",
+    "Address": "1 Loukianou Street, Kolonaki, 106 75 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Olga Kallergi",
+    "Law firm": "Law offices of Olga Kallergi",
+    "Telephone": "0030 211 012 3018",
+    "Address": "3 Sarantaporou Street, 155 61 Cholargos, Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Employment; Family; Real estate",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Photini Karapanou",
+    "Law firm": "P.N. Vrettos & Partners Law Firm",
+    "Telephone": "0030 6944 977 072",
+    "Address": "113 Solonos Street, 106 78 Athens",
+    "Regions served": "Athens",
+    "Legal practice areas": "Family; International; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Lazaros Kikas",
+    "Law firm": "Kikas and Kikas Law Offices",
+    "Telephone": "0030 210 522 8368",
+    "Address": "19 Klisthenous Street, 105 52 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Family; International; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Ioannis Kostantoudakis",
+    "Law firm": "Kostantoudakis and Associates",
+    "Telephone": "0030 6946 499 586",
+    "Address": "36 Voukourestiou Street, Kolonaki, 106 73 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Personal injury; Real estate",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Christos Kotsionis",
+    "Law firm": "Legal Trust",
+    "Telephone": "0030 211 311 4242",
+    "Address": "58 Panepistimiou Street, 106 78 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Criminal; Family; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Alexandros Kotsis",
+    "Law firm": "Kotsis - Lymperopoulou",
+    "Telephone": "0030 210 489 5499",
+    "Address": "44 Didotou Street, 106 81 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Criminal; Employment; Family; Immigration; Intellectual property; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Eleni Koukouvinou-Frampton",
+    "Law firm": "Eleni Koukouvinou Law",
+    "Telephone": "0030 6936 933 792",
+    "Address": "5 Vaindiriou Street, 142 31 Nea Ionia, Athens",
+    "Regions served": "Athens, Cyclades",
+    "Legal practice areas": "Criminal; Family; International; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Efthimios Latsoudis",
+    "Law firm": "Latsoudis & Associates Law Firm",
+    "Telephone": "0030 210 220 5950",
+    "Address": "ELPA Manor, 3 Akti Miaouli Street, 185 35 Piraeus",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Intellectual property; Maritime; Personal injury",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Irene Laux",
+    "Law firm": "Irene Laux Law Office",
+    "Telephone": "0030 210 960 0448",
+    "Address": "52 Kyprou Street, 166 75 Glyfada",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Intellectual property; International; Maritime; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Athina Lignou",
+    "Law firm": "Athina Lignou & Associates",
+    "Telephone": "0030 6944 426 982",
+    "Address": "117 A. Parashou Street, 114 75 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Criminal; Health; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Alexander  Lykourezos",
+    "Law firm": "Lykourezos Law Offices",
+    "Telephone": "0030 210 360 7913",
+    "Address": "19 Dimokritou Street, 106 73 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Criminal; Family; Immigration; Intellectual property; Personal injury; Real estate",
+    "Legal aid": "No",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Athanasios Panagiotakopoulos",
+    "Law firm": "Athanasios Panagiotakopoulos",
+    "Telephone": "0030 6976 069 071",
+    "Address": "56 Panepistimiou Street, 106 78 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Criminal; Family; Immigration; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Spyridon  Pantazis",
+    "Law firm": "Pantazis & Associates Law Firm",
+    "Telephone": "0030 6948 389 210",
+    "Address": "71-73 Alexandras Avenue, 114 74 Athens",
+    "Regions served": "Athens, Alexandroupoli, Crete, Ioannina, Mykonos, Naxos, Patra, Piraeus, Santorini, Syros, Thessaloniki, Zakynthos",
+    "Legal practice areas": "Corporate; Criminal; Family; Health; Immigration; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Niki Pantazis",
+    "Law firm": "Pantazis Law Office",
+    "Telephone": "0030 210 418 0300",
+    "Address": "67 Akti Miaouli, 185 37 Piraeus",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Intellectual property; International; Maritime; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Georgios Papageorgiou",
+    "Law firm": "Georgios Papageorgiou Law Office",
+    "Telephone": "0030 6947 641 556",
+    "Address": "38 Voukourestiou Street, 106 73 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Family; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Aris  Papaspyridis",
+    "Law firm": "AP Legal Law Firm",
+    "Telephone": "0030 210 677 7277",
+    "Address": "238 Kifisias Avenue, 152 31 Chalandri, Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Nikos Prentoulis",
+    "Law firm": "Prentoulis Gerakini Law Partnership",
+    "Telephone": "0030 210 361 7609",
+    "Address": "27A Voukourestiou Street,  106 73 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Intellectual property; International; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "George Pyromallis",
+    "Law firm": "George Pyromallis and Associates Law Firm",
+    "Telephone": "0030 210 729 2232",
+    "Address": "35 Ipsilantou Street, Kolonaki, 106 76 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Criminal",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Flora Sideri",
+    "Law firm": "Flora Sideri",
+    "Telephone": "0030 6937 261 219",
+    "Address": "18 Odissea Androutsou Street, 117 41 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Immigration; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Amanda Skapeti",
+    "Law firm": "Skapeti & Associates Legal Services",
+    "Telephone": "0030 210 677 9603",
+    "Address": "167 Mesogeion Avenue, 115 25 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Criminal; Employment; Health; Intellectual property; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "George Sotiropoulos",
+    "Law firm": "George Sotiropoulos Law Office",
+    "Telephone": "0030 6974 303 685",
+    "Address": "39 Tsamadou Street, 106 83 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Criminal",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Stamatios Stamatekos",
+    "Law firm": "G.Stamatekos & Associates Law Office",
+    "Telephone": "0030 210 689 8038 or 0030 6944 378 004",
+    "Address": "19 Astronafton Street, 151 25 Marousi, Athens",
+    "Regions served": "Athens, Thessaloniki, Peloponnese, Cyclades, Dodekanese, Crete, Ionian Islands",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Neli Symeonova",
+    "Law firm": "Neli Symenova",
+    "Telephone": "0030 210 996 9032",
+    "Address": "5 Karaxaliou Street, 163 42 Ilioupoli, Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Criminal; Family",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Irini Tsagkaraki",
+    "Law firm": "Irini Tsagkaraki Law Firm",
+    "Telephone": "0030 210 924 1481",
+    "Address": "1a Souliou Street, 151 21 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Criminal; International; Personal injury; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Athena Tsakiraki",
+    "Law firm": "ATS law office",
+    "Telephone": "0030 217 000 7199",
+    "Address": "35 Megalou Alexandrou Street, 171 21 Nea Smirni, Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Family; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Eleni Tsoukala",
+    "Law firm": "Tsoukala & Partners Law Firm",
+    "Telephone": "0030 210 361 4340",
+    "Address": "7 Solonos Street, 106 71 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Immigration; Intellectual property; International; Maritime; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Georgios Tsouloufas",
+    "Law firm": "Tsouloufas & Associates Law Offices",
+    "Telephone": "0030 6947 788 310",
+    "Address": "12 Polytechniou Street, 104 33 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Employment; Family; Health; Immigration; Intellectual property; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Andreas Voltis",
+    "Law firm": "AV Law (Andreas Voltis & Associates)",
+    "Telephone": "0030 6972 254 008",
+    "Address": "217 Syngrou Ave & 1 Iosifoglou Street, 171 21 Nea Smyrni, Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; Criminal; Employment; Family; International; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Theodoros  Zacharopoulos",
+    "Law firm": "Zacharopoulos Advocates",
+    "Telephone": "0030 210 362 1101",
+    "Address": "36 Voukourestiou Street, 106 73 Athens",
+    "Regions served": "Athens/All regions",
+    "Legal practice areas": "Corporate; International; Personal injury; Real estate",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Theodoros Agglias",
+    "Law firm": "Theodoros Agglias",
+    "Telephone": "0030 6945 792 900",
+    "Address": "39 Irinis Street, 681 31 Alexandroupolis",
+    "Regions served": "Alexandroupolis, Drama, Kavala, Komotini, Orestiada, Xanthi",
+    "Legal practice areas": "Criminal; Personal injury",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Styliani Charalampidou",
+    "Law firm": "Styliani Charalampidou",
+    "Telephone": "0030 6974 931 670",
+    "Address": "1 Sokrati Ekonomou Street, 681 31 Alexandroupoli",
+    "Regions served": "Alexandroupoli/All regions",
+    "Legal practice areas": "Criminal; Family; Immigration; International",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Peter Doumbis",
+    "Law firm": "Peter Doumbis & Associates",
+    "Telephone": "0030 2310 542982",
+    "Address": "5 Ionos Dragoumi Street, 546 25 Thessaloniki",
+    "Regions served": "Chalkidiki, Katerini, Kilkis,Thessaloniki, Veria",
+    "Legal practice areas": "Bankruptcy; Criminal; Employment; Family; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Vassilios Vroutsis",
+    "Law firm": "Vassilios Vroutsis Law Office",
+    "Telephone": "0030 22850 27580",
+    "Address": "Naxos Town, Naxos Island",
+    "Regions served": "Cyclades",
+    "Legal practice areas": "Corporate; Criminal; Family; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Panagiotis Mourgis",
+    "Law firm": "Panagiotis Mourgis & Associates Law Office",
+    "Telephone": "0030 2720 22050",
+    "Address": "6 Amvrosiou Frantzi Street, Kalamata",
+    "Regions served": "Kalamata/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; Maritime; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Nikolaos Choriatellis",
+    "Law firm": "Nikolaos Chioriatellis",
+    "Telephone": "0030 6974 453 612",
+    "Address": "47-49 P. Kountourioti Street, Stoa Kourtzi, Mytilene, 811 00 Lesvos",
+    "Regions served": "Lesvos",
+    "Legal practice areas": "Corporate; Criminal; Family; Health; Immigration; Personal injury; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Valantis Papageorgiou",
+    "Law firm": "Papageorgiou Law Office",
+    "Telephone": "0030 6977 281 008",
+    "Address": "43 Megalou Alexandrou Street, Sindos, 574 00 Thessaloniki",
+    "Regions served": "Macedonia, Thrace, Thessalia, Islands (North Aegean Sea)",
+    "Legal practice areas": "Criminal; Family; Real estate",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Tassos Theocharidis",
+    "Law firm": "Tassos A. Theocharidis Law Office",
+    "Telephone": "0030 22840 23800",
+    "Address": "1 Marinopoulou Street, Parikia 844 00 Paros",
+    "Regions served": "Paros, Antiparos",
+    "Legal practice areas": "Family; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Konstantinos Kanellakis",
+    "Law firm": "Kanellakis Lawyers",
+    "Telephone": "0030 6945 992 122",
+    "Address": "14 Filopoimenos Street, 262 21 Patras",
+    "Regions served": "Patras/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Intellectual property; International; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Dionysios Maglaris",
+    "Law firm": "Giaprakas-Maglaris-Politi Law Office",
+    "Telephone": "0030 2610 622 446",
+    "Address": "178 Kanakari Street, 262 21 Patras",
+    "Regions served": "Patra/Peloponnese/Western Greece",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Immigration; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Antonios Bachouros",
+    "Law firm": "Antonios Bachouros Law Firm",
+    "Telephone": "0030 6937 029 757",
+    "Address": "5 Manolopoulou Street, 271 31 Pyrgos",
+    "Regions served": "Peloponnese",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Georgios Giaprakas",
+    "Law firm": "Giaprakas-Maglaris-Politi Law Office",
+    "Telephone": "0030 2610 622446",
+    "Address": "178 Kanakari Street, 262 21 Patras",
+    "Regions served": "Peloponnese and Etoloakarnania",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Immigration; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Ioanna Chaika",
+    "Law firm": "Ioanna Chaika",
+    "Telephone": "0030 6938 369 852",
+    "Address": "16 Tsimiski Street, 546 24 Thessaloniki",
+    "Regions served": "Thessaloniki/Central Macedonia",
+    "Legal practice areas": "Corporate; Family; Immigration; Intellectual property; International; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "George Chatzigiannakis",
+    "Law firm": "Nomos Law Firm",
+    "Telephone": "0030 2310 263665",
+    "Address": "1 Valaoritou Street, 546 26 Thessaloniki",
+    "Regions served": "Thessaloniki/All regions",
+    "Legal practice areas": "Corporate; Employment; Family; Immigration; Intellectual property; International; Personal injury; Real estate",
+    "Legal aid": "Yes",
+    "Pro bono service": "Yes"
+  },
+  {
+    "Name": "Athanasios Kikis",
+    "Law firm": "Athanasios Kikis & Partners Law Office",
+    "Telephone": "0030 2310 554154",
+    "Address": "39 25th Martiou Street, Efkarpia, 564 29 Thessaloniki",
+    "Regions served": "Thessaloniki/All regions",
+    "Legal practice areas": "Bankruptcy; Corporate; Criminal; Employment; Family; Health; Immigration; Intellectual property; International; Maritime; Personal injury; Real estate; Tax",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Stratos Konstandinidis",
+    "Law firm": "Konstandinidis & Associates",
+    "Telephone": "0030 2310 222101",
+    "Address": "16 Tsimiski Street, 546 24 Thessaloniki",
+    "Regions served": "Thessaloniki/All regions",
+    "Legal practice areas": "Corporate; Criminal; Employment; Family; Health; Immigration; Personal injury; Real estate",
+    "Legal aid": "No",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Eleni Xiradakis-Sinelis",
+    "Law firm": "George Sinelis - Eleni Xiradaki",
+    "Telephone": "0030 24210 30582",
+    "Address": "172 K. Kartali Street, 382 21 Volos",
+    "Regions served": "Thessaly",
+    "Legal practice areas": "Criminal; Family; Personal injury",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Nikolaos Giannakopoulos",
+    "Law firm": "Nikolaos Giannakopoulos",
+    "Telephone": "0030 24210 49992",
+    "Address": "113 Riga Ferraiou Street, 382 21 Volos",
+    "Regions served": "Volos",
+    "Legal practice areas": "Criminal; Family; Personal injury; Real estate; Tax",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  },
+  {
+    "Name": "Eleni Xiradaki-Sinelis",
+    "Law firm": "George Sinelis - Eleni Xiradaki",
+    "Telephone": "0030 24210 30582",
+    "Address": "172 K. Kartali Street, 382 21 Volos",
+    "Regions served": "Volos/Thessaly",
+    "Legal practice areas": "Criminal; Family; Personal injury",
+    "Legal aid": "Yes",
+    "Pro bono service": "No"
+  }
+]

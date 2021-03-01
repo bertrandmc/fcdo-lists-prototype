@@ -21,6 +21,7 @@
     "basic-auth-connect": "^1.0.0",
     "body-parser": "^1.14.1",
     "browser-sync": "^2.11.1",
+    "cheerio": "^1.0.0-rc.5",
     "client-sessions": "^0.8.0",
     "cross-spawn": "^7.0.2",
     "del": "^5.1.0",
@@ -49,7 +50,6 @@
     "nunjucks": "^3.2.1",
     "portscanner": "^2.1.1",
     "require-dir": "^1.0.0",
-    "sync-request": "^6.0.0",
     "universal-analytics": "^0.4.16",
     "uuid": "^7.0.3"
   },

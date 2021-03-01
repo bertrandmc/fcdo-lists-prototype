@@ -1,0 +1,172 @@
+[
+  {
+    "Name of medical facility": "Acibadem City Clinic Medical Centre Varna",
+    "Email": "varna@acibademcityclinic.bg",
+    "Telephone": "+359(0)70033900",
+    "Address": "1 Bregalnitsa, Varna 9002",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; Mental health; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child",
+    "Public/Private facility": "Private",
+    "Accrediation": ""
+  },
+  {
+    "Name of medical facility": "Acibadem City Clinic University Hospital",
+    "Email": "office@acibademcityclinic.bg",
+    "Telephone": "+359(0)29604949",
+    "Address": "51B Nikola Vaptsarov Blvd, Sofia 1407",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; Mental health; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child health; Pathology; Public health; Radiology; Surgery; Other - see website",
+    "Public/Private facility": "Private",
+    "Accrediation": "Acibadem City Clinic University Hospital has had Joint Commission International accreditation."
+  },
+  {
+    "Name of medical facility": "Eirene Centre",
+    "Email": "eirenecounselling@gmail.com",
+    "Telephone": "+359(0)883478847",
+    "Address": "Apartment 2, 113A Kesenova Gora, Sofia, 1404",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Mental health",
+    "Public/Private facility": "Private",
+    "Accrediation": "BACP British Association of Counsellors and Psychologists"
+  },
+  {
+    "Name of medical facility": "Eurohospital Plovdiv",
+    "Email": "mbal@eurohospital.bg",
+    "Telephone": "+359(0)32207015",
+    "Address": "79 Komatevsko Shose, Plovdiv 4000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "General medicine; Surgery",
+    "Public/Private facility": "Private",
+    "Accrediation": ""
+  },
+  {
+    "Name of medical facility": "Eurohospital Varna",
+    "Email": "eurohospital.bg@abv.bg",
+    "Telephone": "+359(0)52387900",
+    "Address": "2A Nayden Raykov Street, Varna 9000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "General medicine; Surgery",
+    "Public/Private facility": "Private",
+    "Accrediation": ""
+  },
+  {
+    "Name of medical facility": "Life Hospital Ltd.",
+    "Email": "tourist_medical@lifehospitalbg.com",
+    "Telephone": "+359(0)893323074",
+    "Address": "Dimitar Dimov Boulevard, Izgrev, Burgas 8000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; General practicioner; Paediatrics and child health; Surgery",
+    "Public/Private facility": "Private",
+    "Accrediation": "Bulgarian ministry of health - second level of competency. DNV GL ISO 9001:2015"
+  },
+  {
+    "Name of medical facility": "MBAL St Anna Hospital Varna",
+    "Email": "contacts@svetaanna-varna.com",
+    "Telephone": "+359(0)52655911",
+    "Address": "100 Tsar Osvoboditel boulevard, Varna, 9000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accrediation": ""
+  },
+  {
+    "Name of medical facility": "Medical Center Afrodita",
+    "Email": "office@future-health.bg",
+    "Telephone": "+359(0)28060060",
+    "Address": "15 , Henrik Ibsen str.,1407 Sofia",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Obstestrics and gynaecology; Other - see website",
+    "Public/Private facility": "Private",
+    "Accrediation": "0"
+  },
+  {
+    "Name of medical facility": "MHATOD Dr.Marko A. Markov- Varna",
+    "Email": "sbaloz@mdozs-varna.com",
+    "Telephone": "+359(0)52975888",
+    "Address": "100 Tsar Osvoboditel boulevard, Varna, 9000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accrediation": "Ministry of Health"
+  },
+  {
+    "Name of medical facility": "RIBAGINDENT",
+    "Email": "ribagindent@abv.bg",
+    "Telephone": "+359(0)29589145",
+    "Address": "23 Tvardishki prohod, Strelbishte, Sofia 1000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Dentistry",
+    "Public/Private facility": "Private",
+    "Accrediation": "Bulgarian Dental Association"
+  },
+  {
+    "Name of medical facility": "UMBAL Burgas",
+    "Email": "tasopsmbal@gmail.com",
+    "Telephone": "+359(0)56894729",
+    "Address": "73 Stefan Stambolov Blvd., Burgas 8000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accrediation": ""
+  },
+  {
+    "Name of medical facility": "UMBAL D-r Georgi Stranski Pleven",
+    "Email": "umbal@umbalpln.com",
+    "Telephone": "+359(0)64886100",
+    "Address": "8A Georgi Kochev blvd., Pleven 5800",
+    "English speaking staff": "Some",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accrediation": "Bulgarian Medical Association"
+  },
+  {
+    "Name of medical facility": "UMBAL St Marina Hospital Varna",
+    "Email": "officeub@mail.bg",
+    "Telephone": "+359(0)52302851",
+    "Address": "1 Hristo Smirnenski Blvd., Varna 9010",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accrediation": ""
+  },
+  {
+    "Name of medical facility": "UMBALSM N.I. Pirogov",
+    "Email": "pirogov@pirogov.bg",
+    "Telephone": "+359(0)29154411",
+    "Address": "21 Totleben Blvd., Sofia 1000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations",
+    "Public/Private facility": "Public",
+    "Accrediation": ""
+  },
+  {
+    "Name of medical facility": "Vita hospital",
+    "Email": "vita@vita.bg, savcheva@vita.bg",
+    "Telephone": "+359(0)24522000",
+    "Address": "10 Filip Kutev Street , Sofia 1407",
+    "English speaking staff": "Yes",
+    "Main specialisation": "All specialisations; Anaesthesia; General medicine; General practicioner; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child health; Pathology; Radiology; Surgery; Other - see website",
+    "Public/Private facility": "Private",
+    "Accrediation": "Bulgarian Ministry of Health"
+  },
+  {
+    "Name of medical facility": "Viva Clinic Sunny Beach",
+    "Email": "vivaclinic@vivaclinic.bg",
+    "Telephone": "+359(0)55495095",
+    "Address": "Viva Clinic, Sunny Beach 8240",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; Mental health; Obstestrics and gynaecology; Ophtalmology; Paediatrics and child",
+    "Public/Private facility": "Private",
+    "Accrediation": ""
+  },
+  {
+    "Name of medical facility": "Virgin Mary Hospital Burgas",
+    "Email": "administration@saintsofia.com",
+    "Telephone": "+359(0)56896262",
+    "Address": "Vetren, Burgas 8000",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia; Emergency medicine; General medicine; General practicioner; Paediatrics and child health; Surgery",
+    "Public/Private facility": "Private",
+    "Accrediation": ""
+  }
+]

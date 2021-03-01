@@ -1,0 +1,22 @@
+[
+  {
+    "Name of medical facility": "http://www.stjudehospitalslu.org",
+    "Email": "sjh@stjudehospitalslu.org",
+    "Telephone": "(758) 459 6700",
+    "Address": "George Odlum Stadium, Vieux Fort, St Lucia",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia, Emergency medicine, General medicine, General practitioner, Obstetrics & gynaecology, Ophthalmology, Paediatrics & child health, Pathology, Psychiatry, Radiology, Surgery",
+    "Public/Private facility": "Public",
+    "Accreditation": ""
+  },
+  {
+    "Name of medical facility": "http://www.tapion-hospital.com",
+    "Email": "tapion@candw.lc",
+    "Telephone": "(758) 459 2000",
+    "Address": "P.O. Box 1780, Castries, St Lucia",
+    "English speaking staff": "Yes",
+    "Main specialisation": "Anaesthesia, Emergency medicine, General medicine, General practicioner, Mental Health, Obstestrics & gynaecology, Ophatalmology, Paediatrics & child health, Psychiatry, Public health, Radiology, Surgery",
+    "Public/Private facility": "Private",
+    "Accreditation": "St Lucia Medical and Dentral Association (SLMDA)"
+  }
+]

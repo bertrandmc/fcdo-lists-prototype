@@ -7,7 +7,7 @@ const spainLawyers6 = require("./spain-lawyers-6.json");
 const spainLawyers7 = require("./spain-lawyers-7.json");
 const spainLawyers8 = require("./spain-lawyers-8.json");
 
-const spainLawyers = [
+const lawyers = [
   ...spainLawyers1,
   ...spainLawyers2,
   ...spainLawyers3,
@@ -18,6 +18,9 @@ const spainLawyers = [
   ...spainLawyers8,
 ];
 
+const medicalFacilities = [];
+
 module.exports = {
-  spainLawyers,
+  lawyers,
+  medicalFacilities,
 };
