@@ -1,5 +1,6 @@
 const Loki = require("lokijs");
 const countriesData = require("./countries-data");
+const _ = require("lodash");
 
 // create db and tables
 const db = new Loki("database.db");

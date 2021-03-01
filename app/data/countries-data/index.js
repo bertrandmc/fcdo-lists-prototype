@@ -3,7 +3,7 @@ const ghanaData = require("./ghana");
 const greeceData = require("./greece");
 const netherlandsData = require("./netherlands");
 const spainData = require("./spain");
-const stLuciaData = require("./st-lucia");
+const stLuciaData = require("./saint-lucia");
 const thailandData = require("./thailand");
 
 const lawyers = [
@@ -22,7 +22,7 @@ const lawyers = [
   },
   {
     serviceType: "lawyers",
-    country: "st-lucia",
+    country: "saint lucia",
     values: stLuciaData.lawyers,
   },
   {
@@ -60,7 +60,7 @@ const medicalFacilities = [
   },
   {
     serviceType: "medical-facilities",
-    country: "st-lucia",
+    country: "saint lucia",
     values: stLuciaData.medicalFacilities,
   },
   {
